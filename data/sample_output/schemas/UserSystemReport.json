@@ -1,0 +1,165 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "type": "object",
+    "properties": {
+        "channel": {
+            "type": "string"
+        },
+        "context_library_name": {
+            "type": "string"
+        },
+        "context_library_version": {
+            "type": "string"
+        },
+        "event": {
+            "type": "string"
+        },
+        "messageid": {
+            "type": "string"
+        },
+        "projectid": {
+            "type": "string"
+        },
+        "properties_appfingerprint": {
+            "type": "string"
+        },
+        "properties_appflavor": {
+            "type": "string"
+        },
+        "properties_appname": {
+            "type": "string"
+        },
+        "properties_appversion": {
+            "type": "string"
+        },
+        "properties_architecture": {
+            "type": "string"
+        },
+        "properties_buildnumber": {
+            "type": "string"
+        },
+        "properties_colorschemes_luminance": {
+            "type": "array",
+            "items": {
+                "type": "number"
+            }
+        },
+        "properties_colorschemes_type": {
+            "type": "array",
+            "items": {
+                "type": "integer"
+            }
+        },
+        "properties_cpucores": {
+            "type": "string"
+        },
+        "properties_cputype": {
+            "type": "string"
+        },
+        "properties_disksize": {
+            "type": "string"
+        },
+        "properties_lasttimestamp": {
+            "type": "string"
+        },
+        "properties_mac_metal": {
+            "type": "string"
+        },
+        "properties_monitorcount": {
+            "type": "string"
+        },
+        "properties_monitors_scaling": {
+            "type": "array",
+            "items": {
+                "type": "integer"
+            }
+        },
+        "properties_monitors_x": {
+            "type": "array",
+            "items": {
+                "type": "integer"
+            }
+        },
+        "properties_monitors_y": {
+            "type": "array",
+            "items": {
+                "type": "integer"
+            }
+        },
+        "properties_osname": {
+            "type": "string"
+        },
+        "properties_osversion": {
+            "type": "string"
+        },
+        "properties_platform": {
+            "type": "string"
+        },
+        "properties_ramamount": {
+            "type": "string"
+        },
+        "properties_timestamp": {
+            "type": "string"
+        },
+        "receivedat": {
+            "type": "string"
+        },
+        "sentat": {
+            "type": "string"
+        },
+        "timestamp": {
+            "type": "string"
+        },
+        "type": {
+            "type": "string"
+        },
+        "userid": {
+            "type": "string"
+        },
+        "version": {
+            "type": "string"
+        },
+        "writekey": {
+            "type": "string"
+        },
+        "properties_win_highdpi": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "channel",
+        "context_library_name",
+        "context_library_version",
+        "event",
+        "messageid",
+        "projectid",
+        "properties_appfingerprint",
+        "properties_appflavor",
+        "properties_appname",
+        "properties_appversion",
+        "properties_architecture",
+        "properties_buildnumber",
+        "properties_colorschemes_luminance",
+        "properties_colorschemes_type",
+        "properties_cpucores",
+        "properties_cputype",
+        "properties_disksize",
+        "properties_lasttimestamp",
+        "properties_monitorcount",
+        "properties_monitors_scaling",
+        "properties_monitors_x",
+        "properties_monitors_y",
+        "properties_osname",
+        "properties_osversion",
+        "properties_platform",
+        "properties_ramamount",
+        "properties_timestamp",
+        "receivedat",
+        "sentat",
+        "timestamp",
+        "type",
+        "userid",
+        "version",
+        "writekey"
+    ]
+}

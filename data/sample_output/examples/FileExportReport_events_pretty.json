@@ -1,0 +1,224 @@
+[
+    {
+        "channel": "server",
+        "context_library_name": "unknown",
+        "context_library_version": "unknown",
+        "event": "FileExportReport",
+        "messageid": "api-2Omf8pci3cRgSKXmp1KFDAMtCsc",
+        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
+        "properties_appfingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "properties_appflavor": "studioapp.retail",
+        "properties_appname": "Studio One",
+        "properties_appversion": "6.1.1",
+        "properties_architecture": "x64",
+        "properties_buildnumber": "92984",
+        "properties_exports_context": [
+            "Mixdown"
+        ],
+        "properties_exports_count": [
+            2
+        ],
+        "properties_exports_type": [
+            "wav"
+        ],
+        "properties_lasttimestamp": "1681563600",
+        "properties_platform": "win",
+        "properties_timestamp": "1682170518",
+        "receivedat": "2023-04-22T13:35:20.206Z",
+        "sentat": "None",
+        "timestamp": "2023-04-22T13:35:20.206Z",
+        "type": "track",
+        "userid": "7sGBen",
+        "version": "2",
+        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+    },
+    {
+        "channel": "server",
+        "context_library_name": "unknown",
+        "context_library_version": "unknown",
+        "event": "FileExportReport",
+        "messageid": "api-2OmfFg36bppEYSsHWAYQ89BUpyG",
+        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
+        "properties_appfingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "properties_appflavor": "studioapp.retail",
+        "properties_appname": "Studio One",
+        "properties_appversion": "6.1.1",
+        "properties_architecture": "x64",
+        "properties_buildnumber": "92984",
+        "properties_exports_context": [
+            "Mixdown",
+            "Mixdown",
+            "Stem"
+        ],
+        "properties_exports_count": [
+            148,
+            9,
+            8
+        ],
+        "properties_exports_type": [
+            "wav",
+            "mp3",
+            "wav"
+        ],
+        "properties_lasttimestamp": "1681516800",
+        "properties_platform": "win",
+        "properties_timestamp": "1682170572",
+        "receivedat": "2023-04-22T13:36:15.177Z",
+        "sentat": "None",
+        "timestamp": "2023-04-22T13:36:15.177Z",
+        "type": "track",
+        "userid": "4pARes",
+        "version": "2",
+        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+    },
+    {
+        "channel": "server",
+        "context_library_name": "unknown",
+        "context_library_version": "unknown",
+        "event": "FileExportReport",
+        "messageid": "api-2OmfFck4fosJIwrWsVO7K9t89No",
+        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
+        "properties_appfingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "properties_appflavor": "studioapp.retail",
+        "properties_appname": "Studio One",
+        "properties_appversion": "6.1.1",
+        "properties_architecture": "x64",
+        "properties_buildnumber": "92984",
+        "properties_lasttimestamp": "1681488000",
+        "properties_platform": "win",
+        "properties_timestamp": "1682170573",
+        "receivedat": "2023-04-22T13:36:13.966Z",
+        "sentat": "None",
+        "timestamp": "2023-04-22T13:36:13.966Z",
+        "type": "track",
+        "userid": "5sDEde",
+        "version": "2",
+        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+    },
+    {
+        "channel": "server",
+        "context_library_name": "unknown",
+        "context_library_version": "unknown",
+        "event": "FileExportReport",
+        "messageid": "api-2OmfP5E2hZbJQdn7kBn5HNnixQ9",
+        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
+        "properties_appfingerprint": "124676502AFA9EB4CB9D70A2D32ED73D",
+        "properties_appflavor": "studioapp.bundle",
+        "properties_appname": "Studio One",
+        "properties_appversion": "6.1.0",
+        "properties_architecture": "x64",
+        "properties_buildnumber": "92811",
+        "properties_exports_context": [
+            "Mixdown",
+            "Mixdown"
+        ],
+        "properties_exports_count": [
+            15,
+            1
+        ],
+        "properties_exports_type": [
+            "mp3",
+            "wav"
+        ],
+        "properties_lasttimestamp": "1680346800",
+        "properties_platform": "win",
+        "properties_timestamp": "1682170665",
+        "receivedat": "2023-04-22T13:37:29.689Z",
+        "sentat": "None",
+        "timestamp": "2023-04-22T13:37:29.689Z",
+        "type": "track",
+        "userid": "7pITit",
+        "version": "2",
+        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+    },
+    {
+        "channel": "server",
+        "context_library_name": "unknown",
+        "context_library_version": "unknown",
+        "event": "FileExportReport",
+        "messageid": "api-2OmfSPZpvGACkbZMP7dtYRNOTb7",
+        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
+        "properties_appfingerprint": "877539B055AFBEC017ADA428CF808A52",
+        "properties_appflavor": "studioapp.retail",
+        "properties_appname": "Studio One",
+        "properties_appversion": "6.1.1",
+        "properties_architecture": "ARM64",
+        "properties_buildnumber": "92984",
+        "properties_exports_context": [
+            "Mixdown"
+        ],
+        "properties_exports_count": [
+            9
+        ],
+        "properties_exports_type": [
+            "mp3"
+        ],
+        "properties_lasttimestamp": "1681560000",
+        "properties_platform": "mac",
+        "properties_timestamp": "1682170674",
+        "receivedat": "2023-04-22T13:37:56.525Z",
+        "sentat": "None",
+        "timestamp": "2023-04-22T13:37:56.525Z",
+        "type": "track",
+        "userid": "7sDEde",
+        "version": "2",
+        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+    },
+    {
+        "channel": "server",
+        "context_library_name": "unknown",
+        "context_library_version": "unknown",
+        "event": "FileExportReport",
+        "messageid": "api-2OmfX4AX9Cq3EBVSxOBkJFm7FN7",
+        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
+        "properties_appfingerprint": "124676502AFA9EB4CB9D70A2D32ED73D",
+        "properties_appflavor": "studioapp.retail",
+        "properties_appname": "Studio One",
+        "properties_appversion": "6.1.0",
+        "properties_architecture": "x64",
+        "properties_buildnumber": "92811",
+        "properties_exports_context": [
+            "Mixdown"
+        ],
+        "properties_exports_count": [
+            3
+        ],
+        "properties_exports_type": [
+            "wav"
+        ],
+        "properties_lasttimestamp": "1681491600",
+        "properties_platform": "win",
+        "properties_timestamp": "1682170803",
+        "receivedat": "2023-04-22T13:38:33.310Z",
+        "sentat": "None",
+        "timestamp": "2023-04-22T13:38:33.310Z",
+        "type": "track",
+        "userid": "7pSEen",
+        "version": "2",
+        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+    },
+    {
+        "channel": "server",
+        "context_library_name": "unknown",
+        "context_library_version": "unknown",
+        "event": "FileExportReport",
+        "messageid": "api-2OmfekGhl8YSM7vrwcKF1Nf1XSw",
+        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
+        "properties_appfingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "properties_appflavor": "studioapp.free",
+        "properties_appname": "Studio One",
+        "properties_appversion": "6.1.1",
+        "properties_architecture": "x64",
+        "properties_buildnumber": "92984",
+        "properties_lasttimestamp": "1681552800",
+        "properties_platform": "win",
+        "properties_timestamp": "1682170773",
+        "receivedat": "2023-04-22T13:39:34.011Z",
+        "sentat": "None",
+        "timestamp": "2023-04-22T13:39:34.011Z",
+        "type": "track",
+        "userid": "7pKRko",
+        "version": "2",
+        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+    }
+]

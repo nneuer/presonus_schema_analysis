@@ -1,0 +1,138 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "type": "object",
+    "properties": {
+        "channel": {
+            "type": "string"
+        },
+        "context_library_name": {
+            "type": "string"
+        },
+        "context_library_version": {
+            "type": "string"
+        },
+        "event": {
+            "type": "string"
+        },
+        "messageid": {
+            "type": "string"
+        },
+        "projectid": {
+            "type": "string"
+        },
+        "properties_appfingerprint": {
+            "type": "string"
+        },
+        "properties_appflavor": {
+            "type": "string"
+        },
+        "properties_appname": {
+            "type": "string"
+        },
+        "properties_appversion": {
+            "type": "string"
+        },
+        "properties_architecture": {
+            "type": "string"
+        },
+        "properties_buildnumber": {
+            "type": "string"
+        },
+        "properties_devices_category": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "properties_devices_name": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "properties_devices_subcategory": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "properties_devices_usecount": {
+            "type": "array",
+            "items": {
+                "type": "integer"
+            }
+        },
+        "properties_devices_vendor": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "properties_devices_version": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "properties_lasttimestamp": {
+            "type": "string"
+        },
+        "properties_platform": {
+            "type": "string"
+        },
+        "properties_timestamp": {
+            "type": "string"
+        },
+        "receivedat": {
+            "type": "string"
+        },
+        "sentat": {
+            "type": "string"
+        },
+        "timestamp": {
+            "type": "string"
+        },
+        "type": {
+            "type": "string"
+        },
+        "userid": {
+            "type": "string"
+        },
+        "version": {
+            "type": "string"
+        },
+        "writekey": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "channel",
+        "context_library_name",
+        "context_library_version",
+        "event",
+        "messageid",
+        "projectid",
+        "properties_appfingerprint",
+        "properties_appflavor",
+        "properties_appname",
+        "properties_appversion",
+        "properties_architecture",
+        "properties_buildnumber",
+        "properties_devices_category",
+        "properties_devices_name",
+        "properties_devices_subcategory",
+        "properties_devices_usecount",
+        "properties_devices_vendor",
+        "properties_devices_version",
+        "properties_lasttimestamp",
+        "properties_platform",
+        "properties_timestamp",
+        "receivedat",
+        "sentat",
+        "timestamp",
+        "type",
+        "userid",
+        "version",
+        "writekey"
+    ]
+}

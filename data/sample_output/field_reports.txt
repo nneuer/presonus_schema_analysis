@@ -1,0 +1,177 @@
+channel
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+context_library_name
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+context_library_version
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+event
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+messageid
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+projectid
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+properties_appfingerprint
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+properties_appflavor
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+properties_appname
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+properties_appversion
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+properties_architecture
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+properties_buildnumber
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+properties_colorschemes_luminance
+  in event types: ['UserSystemReport']
+
+properties_colorschemes_type
+  in event types: ['UserSystemReport']
+
+properties_commands_command
+  in event types: ['CommandUsageReport']
+
+properties_commands_count
+  in event types: ['CommandUsageReport']
+
+properties_commands_invoker
+  in event types: ['CommandUsageReport']
+
+properties_cpucores
+  in event types: ['UserSystemReport']
+
+properties_cputype
+  in event types: ['UserSystemReport']
+
+properties_devices_category
+  in event types: ['DeviceUsageReport']
+
+properties_devices_name
+  in event types: ['DeviceUsageReport']
+
+properties_devices_subcategory
+  in event types: ['DeviceUsageReport']
+
+properties_devices_usecount
+  in event types: ['DeviceUsageReport']
+
+properties_devices_vendor
+  in event types: ['DeviceUsageReport']
+
+properties_devices_version
+  in event types: ['DeviceUsageReport']
+
+properties_disksize
+  in event types: ['UserSystemReport']
+
+properties_documents_created
+  in event types: ['DocumentUsageReport']
+
+properties_documents_opened
+  in event types: ['DocumentUsageReport']
+
+properties_documents_type
+  in event types: ['DocumentUsageReport']
+
+properties_events_count
+  in event types: ['UserInputReport']
+
+properties_events_type
+  in event types: ['UserInputReport']
+
+properties_exports_context
+  in event types: ['FileExportReport']
+
+properties_exports_count
+  in event types: ['FileExportReport']
+
+properties_exports_type
+  in event types: ['FileExportReport']
+
+properties_lasttimestamp
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+properties_launchfrequency
+  in event types: ['AppLaunchReport']
+
+properties_mac_metal
+  in event types: ['UserSystemReport']
+
+properties_monitorcount
+  in event types: ['UserSystemReport']
+
+properties_monitors_scaling
+  in event types: ['UserSystemReport']
+
+properties_monitors_x
+  in event types: ['UserSystemReport']
+
+properties_monitors_y
+  in event types: ['UserSystemReport']
+
+properties_osname
+  in event types: ['UserSystemReport']
+
+properties_osversion
+  in event types: ['UserSystemReport']
+
+properties_pages_duration
+  in event types: ['PageUsageReport']
+
+properties_pages_type
+  in event types: ['PageUsageReport']
+
+properties_platform
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+properties_ramamount
+  in event types: ['UserSystemReport']
+
+properties_templates_created
+  in event types: ['DocumentUsageReport']
+
+properties_templates_id
+  in event types: ['DocumentUsageReport']
+
+properties_timestamp
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+properties_totalsessiontime
+  in event types: ['AppLaunchReport']
+
+properties_win_highdpi
+  in event types: ['UserSystemReport']
+
+receivedat
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+sentat
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+timestamp
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+type
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+userid
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+version
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
+writekey
+  in event types: ['DocumentUsageReport', 'CommandUsageReport', 'FileExportReport', 'PageUsageReport', 'UserSystemReport', 'UserInputReport', 'AppLaunchReport', 'DeviceUsageReport']
+
