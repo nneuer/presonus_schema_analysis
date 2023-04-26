@@ -101,8 +101,8 @@ def write_field_reports(schemas, outfile):
 
 def main():
     events_file = './data/input/events.jl'
-    schema_output_dir = './data/sample_output/schemas/'
-    field_report_output_file = './data/sample_output/field_reports.txt'
+    schema_output_dir = './data/output/schemas/'
+    field_report_output_file = './data/output/field_reports.yml'
 
     events = read_events(events_file)
     schemas = build_schemas(events)
@@ -110,7 +110,7 @@ def main():
     write_field_reports(schemas, field_report_output_file)
     # also pretty-print events by type
     for schema_type in schemas:
-        event_type_file = './data/sample_output/examples/{}_events_pretty.json'.format(schema_type)
+        event_type_file = './data/output/examples/{}_events_pretty.json'.format(schema_type)
         with open(event_type_file, 'w') as f:
             filtered_events = [e for e in events if e['event'] == schema_type]
             f.write(json.dumps(filtered_events, indent=4))
