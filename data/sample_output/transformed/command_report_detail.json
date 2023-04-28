@@ -1,0 +1,2144 @@
+[
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "File",
+        "commandValue": "Save New Version",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Song",
+        "commandValue": "Export Mixdown",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Song",
+        "commandValue": "Remove Track",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Device",
+        "commandValue": "Expand",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Track",
+        "commandValue": "Add Tracks",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Zoom",
+        "commandValue": "Zoom In",
+        "count": 3,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Transport",
+        "commandValue": "Toggle Start",
+        "count": 72,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Transport",
+        "commandValue": "Goto Loop Start",
+        "count": 22,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Transport",
+        "commandValue": "Loop Selection Snapped",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Transport",
+        "commandValue": "Toggle Loop",
+        "count": 4,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Transport",
+        "commandValue": "Rewind Bar",
+        "count": 28,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Edit",
+        "commandValue": "Delete",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "View",
+        "commandValue": "Editor",
+        "count": 4,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "File",
+        "commandValue": "Save",
+        "count": 4,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "View",
+        "commandValue": "Console",
+        "count": 6,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "View",
+        "commandValue": "Inspector",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Zoom",
+        "commandValue": "Zoom Full",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "File",
+        "commandValue": "New",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Browser",
+        "commandValue": "Show Instruments",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Navigation",
+        "commandValue": "Down",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Presets",
+        "commandValue": "Next",
+        "count": 2,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "View",
+        "commandValue": "Start Page",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
+        "commandName": "Transport",
+        "commandValue": "Return to Zero",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "File",
+        "commandValue": "Save",
+        "count": 5,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "3",
+        "count": 7,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "4",
+        "count": 17,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "5",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "6",
+        "count": 3,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "7",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "File",
+        "commandValue": "Close",
+        "count": 77,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "1",
+        "count": 9,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "2",
+        "count": 14,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Application",
+        "commandValue": "Options",
+        "count": 43,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "View",
+        "commandValue": "Open Signature Track",
+        "count": 22,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "View",
+        "commandValue": "Open Tempo Track",
+        "count": 35,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "8",
+        "count": 13,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Device",
+        "commandValue": "Remove All",
+        "count": 5,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Track",
+        "commandValue": "Show MarkerTrack",
+        "count": 8,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Device",
+        "commandValue": "Remove",
+        "count": 50,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "86",
+        "count": 4,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "90",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "91",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "98",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "35",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "0",
+        "count": 8,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "View",
+        "commandValue": "Open Secondary Ruler",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "89",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "95",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "110",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "115",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "119",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "121",
+        "count": 3,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "117",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "131",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "132",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "140",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "138",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "154",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "150",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "9",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "10",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "15",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "26",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "25",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "21",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "48",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "50",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "67",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "19",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "39",
+        "count": 3,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "82",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "12",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "38",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "47",
+        "count": 3,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "45",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "79",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "104",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "109",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "122",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "126",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "14",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "54",
+        "count": 3,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "51",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "44",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "57",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "68",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "75",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "85",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Click",
+        "commandValue": "Add Sound",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "101",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "58",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "52",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "66",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "70",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Param",
+        "commandValue": "69",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Pad",
+        "commandValue": "Clear",
+        "count": 4,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Media",
+        "commandValue": "Copy External Files",
+        "count": 63,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Media",
+        "commandValue": "Remove Unused Files",
+        "count": 45,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Event",
+        "commandValue": "Merge Events",
+        "count": 20,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Event",
+        "commandValue": "Bounce Selection",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Track",
+        "commandValue": "Hide",
+        "count": 11,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Track",
+        "commandValue": "Add Bus for Selected Channels",
+        "count": 27,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Automation",
+        "commandValue": "Show Parameter",
+        "count": 147,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "View",
+        "commandValue": "Fit Timeline to Contents",
+        "count": 15,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "View",
+        "commandValue": "Open Secondary Ruler",
+        "count": 8,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Automation",
+        "commandValue": "Manage Parameters",
+        "count": 2,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Musical Functions",
+        "commandValue": "Length",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Automation",
+        "commandValue": "Remove Parameter",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Insert Time Signature",
+        "count": 12,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Console",
+        "commandValue": "Remove Channel",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Command",
+        "commandValue": "SelectPreset",
+        "count": 6,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Pad",
+        "commandValue": "ShowFileInShell",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Edit Time Signature",
+        "count": 4,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Audio",
+        "commandValue": "Send To new SampleOne",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Transport",
+        "commandValue": "Toggle Start",
+        "count": 32617,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Zoom",
+        "commandValue": "Zoom In",
+        "count": 11077,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "View",
+        "commandValue": "Console",
+        "count": 1200,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Toolbar",
+        "commandValue": "Tool 3",
+        "count": 3205,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Toggle Snap",
+        "count": 579,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Toolbar",
+        "commandValue": "Tool 1",
+        "count": 3639,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Audio",
+        "commandValue": "Create Crossfades",
+        "count": 2614,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Autoscroll",
+        "count": 161,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Zoom",
+        "commandValue": "Zoom Out",
+        "count": 14199,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "File",
+        "commandValue": "Save",
+        "count": 530,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Track",
+        "commandValue": "Solo",
+        "count": 6050,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Browser",
+        "commandValue": "Show Instruments",
+        "count": 91,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Cut",
+        "count": 36,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "View",
+        "commandValue": "Editor",
+        "count": 1418,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Paste",
+        "count": 409,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Navigation",
+        "commandValue": "Up Extend",
+        "count": 56,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Navigation",
+        "commandValue": "Up",
+        "count": 749,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Navigation",
+        "commandValue": "Down",
+        "count": 975,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Undo",
+        "count": 2225,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Redo",
+        "count": 61,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "View",
+        "commandValue": "Inspector",
+        "count": 41,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Browser",
+        "commandValue": "Show Pool",
+        "count": 65,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "File",
+        "commandValue": "New",
+        "count": 10,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Delete",
+        "count": 1297,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Transport",
+        "commandValue": "Rewind",
+        "count": 314,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Transport",
+        "commandValue": "Click",
+        "count": 309,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Transport",
+        "commandValue": "Loop Selection Snapped",
+        "count": 24,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Duplicate",
+        "count": 1760,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Quantize",
+        "commandValue": "type 1",
+        "count": 132,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Console",
+        "commandValue": "Show Instrument Editor",
+        "count": 64,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Browser",
+        "commandValue": "Show Files",
+        "count": 17,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Browser",
+        "commandValue": "Show Effects",
+        "count": 270,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Copy",
+        "count": 344,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Nudge",
+        "count": 173,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Nudge Back",
+        "count": 173,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Event",
+        "commandValue": "Quantize",
+        "count": 430,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Help",
+        "commandValue": "Context Help",
+        "count": 13,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Transport",
+        "commandValue": "Record",
+        "count": 2957,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Transport",
+        "commandValue": "Toggle Loop",
+        "count": 40,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Track",
+        "commandValue": "Mute",
+        "count": 799,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Presets",
+        "commandValue": "Next",
+        "count": 101,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Navigation",
+        "commandValue": "Down Extend",
+        "count": 68,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Macros",
+        "commandValue": "Macro R28gdG8gbmV4dCBUcmFuc2llbnQgJiBJbnNlcnQgQmVuZCBNYXJrZXI=",
+        "count": 34,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Automation",
+        "commandValue": "Touch",
+        "count": 14,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Track",
+        "commandValue": "Add Tracks",
+        "count": 30,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Track",
+        "commandValue": "Arm",
+        "count": 246,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Track",
+        "commandValue": "Duplicate (complete)",
+        "count": 50,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Select All",
+        "count": 14,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "View",
+        "commandValue": "Next Perspective",
+        "count": 534,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Audio",
+        "commandValue": "Normalize Audio",
+        "count": 3,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Nudge Down",
+        "count": 2,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Nudge Up",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Song",
+        "commandValue": "Remove Track",
+        "count": 174,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Transport",
+        "commandValue": "Return to Zero",
+        "count": 4,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Navigation",
+        "commandValue": "Right",
+        "count": 11,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Toolbar",
+        "commandValue": "Tool 2",
+        "count": 123,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Event",
+        "commandValue": "Bounce Selection",
+        "count": 138,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Transport",
+        "commandValue": "Forward",
+        "count": 128,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Navigation",
+        "commandValue": "Left",
+        "count": 6,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Navigation",
+        "commandValue": "Right Extend",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Track",
+        "commandValue": "Show Envelopes",
+        "count": 330,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Navigation",
+        "commandValue": "Focus Next",
+        "count": 4,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Zoom",
+        "commandValue": "Zoom to Selection",
+        "count": 5,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Zoom",
+        "commandValue": "Toggle Zoom",
+        "count": 6,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Song",
+        "commandValue": "Export Mixdown",
+        "count": 374,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "File",
+        "commandValue": "Open",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Transport",
+        "commandValue": "Start",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Track",
+        "commandValue": "Dissolve Group",
+        "count": 3,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "View",
+        "commandValue": "Performance Monitor",
+        "count": 4,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "File",
+        "commandValue": "New Song",
+        "count": 25,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Automation",
+        "commandValue": "Show Current Parameter",
+        "count": 33,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Audio",
+        "commandValue": "Reverse Audio",
+        "count": 2,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Navigation",
+        "commandValue": "Page Up",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "View",
+        "commandValue": "Start Page",
+        "count": 2,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Presets",
+        "commandValue": "Previous",
+        "count": 2,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Toolbar",
+        "commandValue": "Tool 5",
+        "count": 3,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Toolbar",
+        "commandValue": "Tool 6",
+        "count": 11,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Audio",
+        "commandValue": "Edit with Melodyne",
+        "count": 11,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Edit",
+        "commandValue": "Split",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Transport",
+        "commandValue": "Preroll",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Console",
+        "commandValue": "Show Channel Editor",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Navigation",
+        "commandValue": "End",
+        "count": 3,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Toolbar",
+        "commandValue": "Tool 4",
+        "count": 3,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Transport",
+        "commandValue": "Locate Mouse Cursor",
+        "count": 5,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Navigation",
+        "commandValue": "Cancel",
+        "count": 2,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Song",
+        "commandValue": "Render Click",
+        "count": 3,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Event",
+        "commandValue": "Split at Grid",
+        "count": 10,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Event",
+        "commandValue": "Replace Event With Previous Layer",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Transport",
+        "commandValue": "Stop",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
+        "commandName": "Song",
+        "commandValue": "Export Stems",
+        "count": 3,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "File",
+        "commandValue": "Save",
+        "count": 16,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "File",
+        "commandValue": "New",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "Track",
+        "commandValue": "Add Instrument Track",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "Edit",
+        "commandValue": "Undo",
+        "count": 8,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "Recent File",
+        "commandValue": "2",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "File",
+        "commandValue": "Save As",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "Edit",
+        "commandValue": "Delete",
+        "count": 64,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "Track",
+        "commandValue": "Duplicate (complete)",
+        "count": 11,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "Track",
+        "commandValue": "Transform to Audio Track",
+        "count": 12,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "Track",
+        "commandValue": "Transform to Instrument Track",
+        "count": 4,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "Song",
+        "commandValue": "Remove Track",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "Edit",
+        "commandValue": "Duplicate",
+        "count": 33,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "Help",
+        "commandValue": "Check for Updates",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "File",
+        "commandValue": "New",
+        "count": 3,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "Transport",
+        "commandValue": "Toggle Start",
+        "count": 11,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
+        "commandName": "Navigation",
+        "commandValue": "Left",
+        "count": 34,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Param",
+        "commandValue": "1",
+        "count": 7,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Param",
+        "commandValue": "14",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Edit",
+        "commandValue": "Undo",
+        "count": 86,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "File",
+        "commandValue": "Save",
+        "count": 27,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Song",
+        "commandValue": "Export Mixdown",
+        "count": 18,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "View",
+        "commandValue": "Select Customization",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Param",
+        "commandValue": "2",
+        "count": 5,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "File",
+        "commandValue": "Save As",
+        "count": 8,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "File",
+        "commandValue": "Open",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Track",
+        "commandValue": "Add Tracks",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "File",
+        "commandValue": "Close",
+        "count": 12,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Device",
+        "commandValue": "Rename",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "File",
+        "commandValue": "Remove Recent File",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Param",
+        "commandValue": "3",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Param",
+        "commandValue": "6",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Console",
+        "commandValue": "Setup",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Edit",
+        "commandValue": "SubFolder",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Param",
+        "commandValue": "0",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Param",
+        "commandValue": "5",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Track",
+        "commandValue": "Duplicate",
+        "count": 23,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Song",
+        "commandValue": "Remove Track",
+        "count": 10,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Console",
+        "commandValue": "Hide Channel",
+        "count": 4,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Track",
+        "commandValue": "Duplicate (complete)",
+        "count": 4,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Edit",
+        "commandValue": "Copy",
+        "count": 3,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Edit",
+        "commandValue": "Paste",
+        "count": 2,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Console",
+        "commandValue": "Show Track",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Transport",
+        "commandValue": "Toggle Loop",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Transport",
+        "commandValue": "Toggle Loop Display",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "View",
+        "commandValue": "Customization",
+        "count": 2,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Toolbar",
+        "commandValue": "Tool 1",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Toolbar",
+        "commandValue": "Tool 2",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Transport",
+        "commandValue": "Toggle Start",
+        "count": 4131,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Edit",
+        "commandValue": "Delete",
+        "count": 756,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Edit",
+        "commandValue": "Toggle Snap",
+        "count": 37,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Edit",
+        "commandValue": "Duplicate",
+        "count": 55,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Navigation",
+        "commandValue": "Right Extend",
+        "count": 49,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Quantize",
+        "commandValue": "Clear Pattern",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Navigation",
+        "commandValue": "Down Extend",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Navigation",
+        "commandValue": "Down",
+        "count": 3,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "File",
+        "commandValue": "New",
+        "count": 2,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Audio Device",
+        "commandValue": "Open Setup",
+        "count": 3,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Track",
+        "commandValue": "Mute",
+        "count": 21,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Transport",
+        "commandValue": "Return to Zero",
+        "count": 3,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Marker",
+        "commandValue": "Insert",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Audio",
+        "commandValue": "Create Crossfades",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Transport",
+        "commandValue": "Locate Mouse Cursor",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
+        "commandName": "Navigation",
+        "commandValue": "Left Extend",
+        "count": 3,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "File",
+        "commandValue": "Save As",
+        "count": 7,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "File",
+        "commandValue": "Close",
+        "count": 7,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "View",
+        "commandValue": "Plug-In Manager",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "Edit",
+        "commandValue": "Undo",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "File",
+        "commandValue": "Save",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "Song",
+        "commandValue": "Export Mixdown",
+        "count": 4,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "File",
+        "commandValue": "Quit",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "File",
+        "commandValue": "Save As Template",
+        "count": 3,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "Param",
+        "commandValue": "1",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "Device",
+        "commandValue": "Expand",
+        "count": 3,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "Device",
+        "commandValue": "Remove",
+        "count": 23,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "Song",
+        "commandValue": "Remove Track and Instrument",
+        "count": 1,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "Song",
+        "commandValue": "Remove Track",
+        "count": 5,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "Track",
+        "commandValue": "Duplicate (complete)",
+        "count": 2,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "Transport",
+        "commandValue": "Toggle Start",
+        "count": 207,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "Edit",
+        "commandValue": "Delete",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "Edit",
+        "commandValue": "Undo",
+        "count": 2,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "Marker",
+        "commandValue": "Insert",
+        "count": 4,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "File",
+        "commandValue": "New",
+        "count": 7,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "Navigation",
+        "commandValue": "Left",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "View",
+        "commandValue": "Console",
+        "count": 11,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "View",
+        "commandValue": "Editor",
+        "count": 8,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "Help",
+        "commandValue": "Context Help",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
+        "commandName": "View",
+        "commandValue": "Inspector",
+        "count": 2,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "Param",
+        "commandValue": "0",
+        "count": 5,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "Param",
+        "commandValue": "1",
+        "count": 2,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "Param",
+        "commandValue": "4",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "Param",
+        "commandValue": "2",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "Automation",
+        "commandValue": "Manage Parameters",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "File",
+        "commandValue": "Save As",
+        "count": 1,
+        "invoker": "mainMenu"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "Automation",
+        "commandValue": "Show Parameter",
+        "count": 2,
+        "invoker": "contextMenu"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "Track",
+        "commandValue": "Add Tracks",
+        "count": 3,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "Transport",
+        "commandValue": "Toggle Start",
+        "count": 140,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "Edit",
+        "commandValue": "Undo",
+        "count": 14,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "Edit",
+        "commandValue": "Delete",
+        "count": 23,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "Edit",
+        "commandValue": "Toggle Snap",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "File",
+        "commandValue": "New",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "Edit",
+        "commandValue": "Copy",
+        "count": 1,
+        "invoker": "key"
+    },
+    {
+        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
+        "commandName": "Edit",
+        "commandValue": "Paste",
+        "count": 1,
+        "invoker": "key"
+    }
+]
