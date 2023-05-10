@@ -1,0 +1,11 @@
+{
+  "use1-active-data-ingestion-segment-studio_one_pc": {
+    "track": "use1-nneuer_transform-data-ingestion-segment-studio_one_pc-track",
+    "screen": "use1-nneuer_transform-data-ingestion-segment-studio_one_pc-screen",
+    "group": "use1-nneuer_transform-data-ingestion-segment-studio_one_pc-group",
+    "alias": "use1-nneuer_transform-data-ingestion-segment-studio_one_pc-alias",
+    "identify": "use1-nneuer_transform-data-ingestion-segment-studio_one_pc-identify",
+    "exception": "use1-nneuer_transform-data-ingestion-segment-studio_one_pc-exception",
+    "page": "use1-nneuer_transform-data-ingestion-segment-studio_one_pc-page"
+  }
+}
