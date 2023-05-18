@@ -1,1100 +1,1089 @@
 [
     {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "CommandUsageReport",
-        "messageid": "api-2Omf8oFTAVrUQliTS8LrAxjBrMg",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
-        "properties_appflavor": "studioapp.retail",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.1",
-        "properties_architecture": "x64",
-        "properties_buildnumber": "92984",
-        "properties_commands_command": [
-            "File|Save New Version",
-            "Song|Export Mixdown",
-            "Song|Remove Track",
-            "Device|Expand",
-            "Track|Add Tracks",
-            "Zoom|Zoom In",
-            "Transport|Toggle Start",
-            "Transport|Goto Loop Start",
-            "Transport|Loop Selection Snapped",
-            "Transport|Toggle Loop",
-            "Transport|Rewind Bar",
-            "Edit|Delete",
-            "View|Editor",
-            "File|Save",
-            "View|Console",
-            "View|Inspector",
-            "Zoom|Zoom Full",
-            "File|New",
-            "Browser|Show Instruments",
-            "Navigation|Down",
-            "Presets|Next",
-            "View|Start Page",
-            "Transport|Return to Zero"
+        "appFingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "x64",
+        "buildNumber": 92984,
+        "commands": [
+            {
+                "command": "Edit|Delete",
+                "count": 3,
+                "invoker": "key"
+            },
+            {
+                "command": "File|New",
+                "count": 1,
+                "invoker": "key"
+            }
         ],
-        "properties_commands_count": [
-            2,
-            2,
-            1,
-            1,
-            1,
-            3,
-            72,
-            22,
-            1,
-            4,
-            28,
-            1,
-            4,
-            4,
-            6,
-            1,
-            1,
-            1,
-            1,
-            1,
-            2,
-            1,
-            1
-        ],
-        "properties_commands_invoker": [
-            "mainMenu",
-            "mainMenu",
-            "contextMenu",
-            "contextMenu",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key"
-        ],
-        "properties_lasttimestamp": "1681563600",
-        "properties_platform": "win",
-        "properties_timestamp": "1682170518",
-        "receivedat": "2023-04-22T13:35:20.206Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:35:20.206Z",
-        "type": "track",
-        "userid": "7sGBen",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+        "lastTimestamp": 1682791200,
+        "platform": "win",
+        "timestamp": 1684362398,
+        "event": "CommandUsageReport"
     },
     {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "CommandUsageReport",
-        "messageid": "api-2OmfFdRsrerXqwMekGr4X4rCXVl",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
-        "properties_appflavor": "studioapp.retail",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.1",
-        "properties_architecture": "x64",
-        "properties_buildnumber": "92984",
-        "properties_commands_command": [
-            "File|Save",
-            "Param|3",
-            "Param|4",
-            "Param|5",
-            "Param|6",
-            "Param|7",
-            "File|Close",
-            "Param|1",
-            "Param|2",
-            "Application|Options",
-            "View|Open Signature Track",
-            "View|Open Tempo Track",
-            "Param|8",
-            "Device|Remove All",
-            "Track|Show MarkerTrack",
-            "Device|Remove",
-            "Param|86",
-            "Param|90",
-            "Param|91",
-            "Param|98",
-            "Param|35",
-            "Param|0",
-            "View|Open Secondary Ruler",
-            "Param|89",
-            "Param|95",
-            "Param|110",
-            "Param|115",
-            "Param|119",
-            "Param|121",
-            "Param|117",
-            "Param|131",
-            "Param|132",
-            "Param|140",
-            "Param|138",
-            "Param|154",
-            "Param|150",
-            "Param|9",
-            "Param|10",
-            "Param|15",
-            "Param|26",
-            "Param|25",
-            "Param|21",
-            "Param|48",
-            "Param|50",
-            "Param|67",
-            "Param|19",
-            "Param|39",
-            "Param|82",
-            "Param|12",
-            "Param|38",
-            "Param|47",
-            "Param|45",
-            "Param|79",
-            "Param|104",
-            "Param|109",
-            "Param|122",
-            "Param|126",
-            "Param|14",
-            "Param|54",
-            "Param|51",
-            "Param|44",
-            "Param|57",
-            "Param|68",
-            "Param|75",
-            "Param|85",
-            "Click|Add Sound",
-            "Param|101",
-            "Param|58",
-            "Param|52",
-            "Param|66",
-            "Param|70",
-            "Param|69",
-            "Pad|Clear",
-            "Media|Copy External Files",
-            "Media|Remove Unused Files",
-            "Event|Merge Events",
-            "Event|Bounce Selection",
-            "Track|Hide",
-            "Track|Add Bus for Selected Channels",
-            "Automation|Show Parameter",
-            "View|Fit Timeline to Contents",
-            "View|Open Secondary Ruler",
-            "Automation|Manage Parameters",
-            "Musical Functions|Length",
-            "Automation|Remove Parameter",
-            "Edit|Insert Time Signature",
-            "Console|Remove Channel",
-            "Command|SelectPreset",
-            "Pad|ShowFileInShell",
-            "Edit|Edit Time Signature",
-            "Audio|Send To new SampleOne",
-            "Transport|Toggle Start",
-            "Zoom|Zoom In",
-            "View|Console",
-            "Toolbar|Tool 3",
-            "Edit|Toggle Snap",
-            "Toolbar|Tool 1",
-            "Audio|Create Crossfades",
-            "Edit|Autoscroll",
-            "Zoom|Zoom Out",
-            "File|Save",
-            "Track|Solo",
-            "Browser|Show Instruments",
-            "Edit|Cut",
-            "View|Editor",
-            "Edit|Paste",
-            "Navigation|Up Extend",
-            "Navigation|Up",
-            "Navigation|Down",
-            "Edit|Undo",
-            "Edit|Redo",
-            "View|Inspector",
-            "Browser|Show Pool",
-            "File|New",
-            "Edit|Delete",
-            "Transport|Rewind",
-            "Transport|Click",
-            "Transport|Loop Selection Snapped",
-            "Edit|Duplicate",
-            "Quantize|type 1",
-            "Console|Show Instrument Editor",
-            "Browser|Show Files",
-            "Browser|Show Effects",
-            "Edit|Copy",
-            "Edit|Nudge",
-            "Edit|Nudge Back",
-            "Event|Quantize",
-            "Help|Context Help",
-            "Transport|Record",
-            "Transport|Toggle Loop",
-            "Track|Mute",
-            "Presets|Next",
-            "Navigation|Down Extend",
-            "Macros|Macro R28gdG8gbmV4dCBUcmFuc2llbnQgJiBJbnNlcnQgQmVuZCBNYXJrZXI=",
-            "Automation|Touch",
-            "Track|Add Tracks",
-            "Track|Arm",
-            "Track|Duplicate (complete)",
-            "Edit|Select All",
-            "View|Next Perspective",
-            "Audio|Normalize Audio",
-            "Edit|Nudge Down",
-            "Edit|Nudge Up",
-            "Song|Remove Track",
-            "Transport|Return to Zero",
-            "Navigation|Right",
-            "Toolbar|Tool 2",
-            "Event|Bounce Selection",
-            "Transport|Forward",
-            "Navigation|Left",
-            "Navigation|Right Extend",
-            "Track|Show Envelopes",
-            "Navigation|Focus Next",
-            "Zoom|Zoom to Selection",
-            "Zoom|Toggle Zoom",
-            "Song|Export Mixdown",
-            "File|Open",
-            "Transport|Start",
-            "Track|Dissolve Group",
-            "View|Performance Monitor",
-            "File|New Song",
-            "Automation|Show Current Parameter",
-            "Audio|Reverse Audio",
-            "Navigation|Page Up",
-            "View|Start Page",
-            "Presets|Previous",
-            "Toolbar|Tool 5",
-            "Toolbar|Tool 6",
-            "Audio|Edit with Melodyne",
-            "Edit|Split",
-            "Transport|Preroll",
-            "Console|Show Channel Editor",
-            "Navigation|End",
-            "Toolbar|Tool 4",
-            "Transport|Locate Mouse Cursor",
-            "Navigation|Cancel",
-            "Song|Render Click",
-            "Event|Split at Grid",
-            "Event|Replace Event With Previous Layer",
-            "Transport|Stop",
-            "Song|Export Stems"
+        "appFingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "x64",
+        "buildNumber": 92984,
+        "commands": [
+            {
+                "command": "Param|1",
+                "count": 10,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Device|Remove",
+                "count": 28,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Edit|Undo",
+                "count": 115,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Device|Expand",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "File|Save",
+                "count": 28,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|0",
+                "count": 5,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "File|Close",
+                "count": 4,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "File|Save As",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|3",
+                "count": 3,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|5",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|8",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|14",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|72",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Device|Remove All",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Application|Options",
+                "count": 8,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|7",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "File|New",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "File|Rename",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|62",
+                "count": 4,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|74",
+                "count": 3,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|81",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "File|Document Setup",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Add to Project|-1",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Song|Update Mastering File",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Recent File|1",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Song|Remove Track",
+                "count": 12,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Edit|Delete",
+                "count": 47,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Edit|Duplicate",
+                "count": 57,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Event|Bounce Selection",
+                "count": 33,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Track|Duplicate",
+                "count": 8,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Audio|Detect Chords",
+                "count": 7,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Send|Lock Pan",
+                "count": 10,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Song|Remove Track and Instrument",
+                "count": 2,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Track|Duplicate (complete)",
+                "count": 4,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Audio|Increase Volume",
+                "count": 10,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Event|Quantize 50%",
+                "count": 12,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Project|Edit Track",
+                "count": 1,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Event|Quantize",
+                "count": 3,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Track|Add Tracks",
+                "count": 10,
+                "invoker": "key"
+            },
+            {
+                "command": "Edit|Delete",
+                "count": 14,
+                "invoker": "key"
+            },
+            {
+                "command": "Edit|Duplicate Shared",
+                "count": 119,
+                "invoker": "key"
+            },
+            {
+                "command": "Edit|Undo",
+                "count": 48,
+                "invoker": "key"
+            },
+            {
+                "command": "Transport|Toggle Start",
+                "count": 17,
+                "invoker": "key"
+            },
+            {
+                "command": "Audio Device|Open Setup",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "Zoom|Toggle Zoom",
+                "count": 4,
+                "invoker": "key"
+            },
+            {
+                "command": "Marker|Goto Previous Marker",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "File|New",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "Navigation|Left Skip",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Marker|Goto Next Marker",
+                "count": 3,
+                "invoker": "key"
+            }
         ],
-        "properties_commands_count": [
-            5,
-            7,
-            17,
-            1,
-            3,
-            1,
-            77,
-            9,
-            14,
-            43,
-            22,
-            35,
-            13,
-            5,
-            8,
-            50,
-            4,
-            1,
-            1,
-            1,
-            1,
-            8,
-            1,
-            1,
-            1,
-            1,
-            1,
-            2,
-            3,
-            2,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            3,
-            2,
-            1,
-            1,
-            3,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            3,
-            1,
-            1,
-            1,
-            2,
-            1,
-            1,
-            2,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            4,
-            63,
-            45,
-            20,
-            1,
-            11,
-            27,
-            147,
-            15,
-            8,
-            2,
-            1,
-            1,
-            12,
-            1,
-            6,
-            1,
-            4,
-            1,
-            32617,
-            11077,
-            1200,
-            3205,
-            579,
-            3639,
-            2614,
-            161,
-            14199,
-            530,
-            6050,
-            91,
-            36,
-            1418,
-            409,
-            56,
-            749,
-            975,
-            2225,
-            61,
-            41,
-            65,
-            10,
-            1297,
-            314,
-            309,
-            24,
-            1760,
-            132,
-            64,
-            17,
-            270,
-            344,
-            173,
-            173,
-            430,
-            13,
-            2957,
-            40,
-            799,
-            101,
-            68,
-            34,
-            14,
-            30,
-            246,
-            50,
-            14,
-            534,
-            3,
-            2,
-            1,
-            174,
-            4,
-            11,
-            123,
-            138,
-            128,
-            6,
-            1,
-            330,
-            4,
-            5,
-            6,
-            374,
-            1,
-            1,
-            3,
-            4,
-            25,
-            33,
-            2,
-            1,
-            2,
-            2,
-            3,
-            11,
-            11,
-            1,
-            1,
-            1,
-            3,
-            3,
-            5,
-            2,
-            3,
-            10,
-            1,
-            1,
-            3
-        ],
-        "properties_commands_invoker": [
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key"
-        ],
-        "properties_lasttimestamp": "1680912000",
-        "properties_platform": "win",
-        "properties_timestamp": "1682170572",
-        "receivedat": "2023-04-22T13:36:15.177Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:36:15.177Z",
-        "type": "track",
-        "userid": "4pARes",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+        "lastTimestamp": 0,
+        "platform": "win",
+        "timestamp": 1684362402,
+        "event": "CommandUsageReport"
     },
     {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "CommandUsageReport",
-        "messageid": "api-2OmfFWhPZtruWSP6JoiavZKwrOZ",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
-        "properties_appflavor": "studioapp.retail",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.1",
-        "properties_architecture": "x64",
-        "properties_buildnumber": "92984",
-        "properties_commands_command": [
-            "File|Save",
-            "File|New",
-            "Track|Add Instrument Track",
-            "Edit|Undo",
-            "Recent File|2",
-            "File|Save As",
-            "Edit|Delete",
-            "Track|Duplicate (complete)",
-            "Track|Transform to Audio Track",
-            "Track|Transform to Instrument Track",
-            "Song|Remove Track",
-            "Edit|Duplicate",
-            "Help|Check for Updates",
-            "File|New",
-            "Transport|Toggle Start",
-            "Navigation|Left"
+        "appFingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "x64",
+        "buildNumber": 92984,
+        "commands": [
+            {
+                "command": "Param|0",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Application|Options",
+                "count": 3,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|3",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Select Client|0",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Transport|Metronome Setup",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "View|Lyrics Display",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|2",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Song|Remove Track and Instrument",
+                "count": 1,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Track|Add Instrument Track",
+                "count": 1,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Edit|Delete",
+                "count": 5,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "View|Customization",
+                "count": 2,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Transport|Loop Follows Selection",
+                "count": 1,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Audio Device|Open Setup",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "File|New",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "Browser|Show Instruments",
+                "count": 3,
+                "invoker": "key"
+            },
+            {
+                "command": "Transport|Toggle Start",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "Edit|Undo",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Marker|Goto Next Marker",
+                "count": 3,
+                "invoker": "key"
+            }
         ],
-        "properties_commands_count": [
-            16,
-            1,
-            1,
-            8,
-            1,
-            1,
-            64,
-            11,
-            12,
-            4,
-            1,
-            33,
-            1,
-            3,
-            11,
-            34
-        ],
-        "properties_commands_invoker": [
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key"
-        ],
-        "properties_lasttimestamp": "1681491600",
-        "properties_platform": "win",
-        "properties_timestamp": "1682170573",
-        "receivedat": "2023-04-22T13:36:13.966Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:36:13.966Z",
-        "type": "track",
-        "userid": "5sDEde",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+        "lastTimestamp": 0,
+        "platform": "win",
+        "timestamp": 1684362393,
+        "event": "CommandUsageReport"
     },
     {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "CommandUsageReport",
-        "messageid": "api-2OmfP4DICdWOCXtdLxkWONHiIBc",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "124676502AFA9EB4CB9D70A2D32ED73D",
-        "properties_appflavor": "studioapp.bundle",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.0",
-        "properties_architecture": "x64",
-        "properties_buildnumber": "92811",
-        "properties_commands_command": [
-            "Param|1",
-            "Param|14",
-            "Edit|Undo",
-            "File|Save",
-            "Song|Export Mixdown",
-            "View|Select Customization",
-            "Param|2",
-            "File|Save As",
-            "File|Open",
-            "Track|Add Tracks",
-            "File|Close",
-            "Device|Rename",
-            "File|Remove Recent File",
-            "Param|3",
-            "Param|6",
-            "Console|Setup",
-            "Edit|SubFolder",
-            "Param|0",
-            "Param|5",
-            "Track|Duplicate",
-            "Song|Remove Track",
-            "Console|Hide Channel",
-            "Track|Duplicate (complete)",
-            "Edit|Copy",
-            "Edit|Paste",
-            "Console|Show Track",
-            "Transport|Toggle Loop",
-            "Transport|Toggle Loop Display",
-            "View|Customization",
-            "Toolbar|Tool 1",
-            "Toolbar|Tool 2",
-            "Transport|Toggle Start",
-            "Edit|Delete",
-            "Edit|Toggle Snap",
-            "Edit|Duplicate",
-            "Navigation|Right Extend",
-            "Quantize|Clear Pattern",
-            "Navigation|Down Extend",
-            "Navigation|Down",
-            "File|New",
-            "Audio Device|Open Setup",
-            "Track|Mute",
-            "Transport|Return to Zero",
-            "Marker|Insert",
-            "Audio|Create Crossfades",
-            "Transport|Locate Mouse Cursor",
-            "Navigation|Left Extend"
+        "appFingerprint": "877539B055AFBEC017ADA428CF808A52",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "ARM64",
+        "buildNumber": 92984,
+        "commands": [
+            {
+                "command": "Path|Select",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Application|Options",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|1",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|0",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Help|About",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Application|Installation",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Edit|Undo",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "File|Save As",
+                "count": 5,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Device|Remove",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Transport|Loop Follows Selection",
+                "count": 4,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Song|Remove Track",
+                "count": 2,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Application|Install from File",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Help|Check for Updates",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "File|Open",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "View|Performance Monitor",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Browser|Show Instruments",
+                "count": 3,
+                "invoker": "key"
+            },
+            {
+                "command": "Help|About",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Help|Website",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "File|New",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "File|Save",
+                "count": 15,
+                "invoker": "key"
+            },
+            {
+                "command": "Edit|Duplicate",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Transport|Toggle Start",
+                "count": 7,
+                "invoker": "key"
+            },
+            {
+                "command": "Edit|Undo",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Toolbar|Tool 1",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "Toolbar|Tool 2",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "Toolbar|Tool 3",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "View|Browser",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "Automation|Next Parameter",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Track|Show Envelopes",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Track|Add Tracks",
+                "count": 1,
+                "invoker": "key"
+            }
         ],
-        "properties_commands_count": [
-            7,
-            1,
-            86,
-            27,
-            18,
-            1,
-            5,
-            8,
-            2,
-            2,
-            12,
-            1,
-            2,
-            1,
-            1,
-            1,
-            2,
-            2,
-            2,
-            23,
-            10,
-            4,
-            4,
-            3,
-            2,
-            1,
-            1,
-            1,
-            2,
-            1,
-            1,
-            4131,
-            756,
-            37,
-            55,
-            49,
-            1,
-            1,
-            3,
-            2,
-            3,
-            21,
-            3,
-            1,
-            1,
-            1,
-            3
-        ],
-        "properties_commands_invoker": [
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key"
-        ],
-        "properties_lasttimestamp": "1680346800",
-        "properties_platform": "win",
-        "properties_timestamp": "1682170665",
-        "receivedat": "2023-04-22T13:37:29.689Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:37:29.689Z",
-        "type": "track",
-        "userid": "7pITit",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+        "lastTimestamp": 0,
+        "platform": "mac",
+        "timestamp": 1684362465,
+        "event": "CommandUsageReport"
     },
     {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "CommandUsageReport",
-        "messageid": "api-2OmfX35mjnsSecOZa4HpImGFEiy",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "124676502AFA9EB4CB9D70A2D32ED73D",
-        "properties_appflavor": "studioapp.retail",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.0",
-        "properties_architecture": "x64",
-        "properties_buildnumber": "92811",
-        "properties_commands_command": [
-            "File|Save As",
-            "File|Close",
-            "View|Plug-In Manager",
-            "Edit|Undo",
-            "File|Save",
-            "Song|Export Mixdown",
-            "File|Quit",
-            "File|Save As Template",
-            "Param|1",
-            "Device|Expand",
-            "Device|Remove",
-            "Song|Remove Track and Instrument",
-            "Song|Remove Track",
-            "Track|Duplicate (complete)",
-            "Transport|Toggle Start",
-            "Edit|Delete",
-            "Edit|Undo",
-            "Marker|Insert",
-            "File|New",
-            "Navigation|Left",
-            "View|Console",
-            "View|Editor",
-            "Help|Context Help",
-            "View|Inspector"
+        "appFingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "x64",
+        "buildNumber": 92984,
+        "commands": [
+            {
+                "command": "Event|Open FX Editor",
+                "count": 5,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Track|Show MarkerTrack",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Application|Options",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Song|Export Mixdown",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "File|Close",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Track|Duplicate (complete)",
+                "count": 1,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Event|Bounce To New Track",
+                "count": 3,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Browser|Refresh",
+                "count": 7,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Edit|Undo",
+                "count": 9,
+                "invoker": "key"
+            },
+            {
+                "command": "Navigation|Right",
+                "count": 9,
+                "invoker": "key"
+            },
+            {
+                "command": "Transport|Toggle Start",
+                "count": 178,
+                "invoker": "key"
+            },
+            {
+                "command": "Edit|Duplicate",
+                "count": 15,
+                "invoker": "key"
+            },
+            {
+                "command": "Edit|Delete",
+                "count": 8,
+                "invoker": "key"
+            },
+            {
+                "command": "Transport|Record",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "Event|Quantize",
+                "count": 8,
+                "invoker": "key"
+            },
+            {
+                "command": "Zoom|Zoom Out",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "Zoom|Zoom In",
+                "count": 4,
+                "invoker": "key"
+            },
+            {
+                "command": "Transport|Click",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Event|Merge Events",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "Presets|Reset Blocklist",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "File|Save",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "Help|Check for Updates",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "File|New",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "File|Open",
+                "count": 1,
+                "invoker": "key"
+            }
         ],
-        "properties_commands_count": [
-            7,
-            7,
-            1,
-            1,
-            1,
-            4,
-            2,
-            3,
-            1,
-            3,
-            23,
-            1,
-            5,
-            2,
-            207,
-            1,
-            2,
-            4,
-            7,
-            1,
-            11,
-            8,
-            1,
-            2
-        ],
-        "properties_commands_invoker": [
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "contextMenu",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key"
-        ],
-        "properties_lasttimestamp": "1681491600",
-        "properties_platform": "win",
-        "properties_timestamp": "1682170803",
-        "receivedat": "2023-04-22T13:38:33.310Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:38:33.310Z",
-        "type": "track",
-        "userid": "7pSEen",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+        "lastTimestamp": 0,
+        "platform": "win",
+        "timestamp": 1684362499,
+        "event": "CommandUsageReport"
     },
     {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "CommandUsageReport",
-        "messageid": "api-2OmfefNq5MTfkYj1qpJhcMdmcz6",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
-        "properties_appflavor": "studioapp.free",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.1",
-        "properties_architecture": "x64",
-        "properties_buildnumber": "92984",
-        "properties_commands_command": [
-            "Param|0",
-            "Param|1",
-            "Param|4",
-            "Param|2",
-            "Automation|Manage Parameters",
-            "File|Save As",
-            "Automation|Show Parameter",
-            "Track|Add Tracks",
-            "Transport|Toggle Start",
-            "Edit|Undo",
-            "Edit|Delete",
-            "Edit|Toggle Snap",
-            "File|New",
-            "Edit|Copy",
-            "Edit|Paste"
+        "appFingerprint": "48B0D55F4E62ABC3C551DE5016B49FDF",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.0",
+        "architecture": "x64",
+        "buildNumber": 92811,
+        "commands": [
+            {
+                "command": "Media|Remove Unused Files",
+                "count": 3,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Track|Duplicate",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Track|Group Selected Tracks",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Track|Dissolve Group",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|2",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|0",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Takes|2",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Device|Remove",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Application|Options",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Track|Add Audio Track (stereo)",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Media|Locate Missing Files",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Edit|Delete",
+                "count": 12,
+                "invoker": "key"
+            },
+            {
+                "command": "Marker|Goto Previous Marker",
+                "count": 93,
+                "invoker": "key"
+            },
+            {
+                "command": "Transport|Stop",
+                "count": 112,
+                "invoker": "key"
+            },
+            {
+                "command": "Edit|Undo",
+                "count": 26,
+                "invoker": "key"
+            },
+            {
+                "command": "File|Save",
+                "count": 10,
+                "invoker": "key"
+            },
+            {
+                "command": "Transport|Toggle Loop",
+                "count": 23,
+                "invoker": "key"
+            },
+            {
+                "command": "Marker|Recall Marker 8",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Transport|Autopunch",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "Edit|Copy",
+                "count": 7,
+                "invoker": "key"
+            },
+            {
+                "command": "Edit|Paste",
+                "count": 13,
+                "invoker": "key"
+            },
+            {
+                "command": "View|Performance Monitor",
+                "count": 3,
+                "invoker": "key"
+            }
         ],
-        "properties_commands_count": [
-            5,
-            2,
-            1,
-            1,
-            1,
-            1,
-            2,
-            3,
-            140,
-            14,
-            23,
-            1,
-            1,
-            1,
-            1
+        "lastTimestamp": 1683756000,
+        "platform": "mac",
+        "timestamp": 1684362529,
+        "event": "CommandUsageReport"
+    },
+    {
+        "appFingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "x64",
+        "buildNumber": 92984,
+        "commands": [
+            {
+                "command": "Application|Options",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|2",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|4",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "File|Save As",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "File|Document Setup",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Song|Export Mixdown",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "File|Save",
+                "count": 1,
+                "invoker": "mainMenu"
+            }
         ],
-        "properties_commands_invoker": [
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "mainMenu",
-            "contextMenu",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key",
-            "key"
+        "lastTimestamp": 1683223200,
+        "platform": "win",
+        "timestamp": 1684362592,
+        "event": "CommandUsageReport"
+    },
+    {
+        "appFingerprint": "877539B055AFBEC017ADA428CF808A52",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "x64",
+        "buildNumber": 92984,
+        "commands": [
+            {
+                "command": "Device|Remove",
+                "count": 98,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Device|Remove All",
+                "count": 26,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|2",
+                "count": 11,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|1",
+                "count": 6,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "File|Save As",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Edit|Undo",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Song|Export Mixdown",
+                "count": 12,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|22",
+                "count": 4,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|20",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|17",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Song|Export Stems",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|24",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Console|Add FX Channel",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|8",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|3",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|0",
+                "count": 2,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|29",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|5",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Param|23",
+                "count": 1,
+                "invoker": "mainMenu"
+            },
+            {
+                "command": "Console|Remove Channel",
+                "count": 3,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Track|Transform to Rendered Audio",
+                "count": 2,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Event|Mixdown Selection",
+                "count": 1,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Song|Remove Track",
+                "count": 2,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Track|Transform to Audio Track",
+                "count": 1,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Track|Add Bus for Selected Channels",
+                "count": 2,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "Track|Add Instrument Track",
+                "count": 1,
+                "invoker": "contextMenu"
+            },
+            {
+                "command": "File|New",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "Track|Add Tracks",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Transport|Toggle Start",
+                "count": 267,
+                "invoker": "key"
+            },
+            {
+                "command": "Edit|Undo",
+                "count": 20,
+                "invoker": "key"
+            },
+            {
+                "command": "File|Save",
+                "count": 77,
+                "invoker": "key"
+            },
+            {
+                "command": "Edit|Delete",
+                "count": 6,
+                "invoker": "key"
+            },
+            {
+                "command": "Event|Bounce Selection",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Track|Mute",
+                "count": 2,
+                "invoker": "key"
+            },
+            {
+                "command": "Navigation|Up",
+                "count": 18,
+                "invoker": "key"
+            },
+            {
+                "command": "Toolbar|Tool 3",
+                "count": 8,
+                "invoker": "key"
+            },
+            {
+                "command": "Toolbar|Tool 1",
+                "count": 8,
+                "invoker": "key"
+            },
+            {
+                "command": "Devices|Open Qwerty Keyboard",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Event|Toggle Mute",
+                "count": 3,
+                "invoker": "key"
+            },
+            {
+                "command": "Toolbar|Tool 2",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Track|Solo",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Toolbar|Tool 4",
+                "count": 1,
+                "invoker": "key"
+            },
+            {
+                "command": "Toolbar|Tool 5",
+                "count": 1,
+                "invoker": "key"
+            }
         ],
-        "properties_lasttimestamp": "1681552800",
-        "properties_platform": "win",
-        "properties_timestamp": "1682170773",
-        "receivedat": "2023-04-22T13:39:34.011Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:39:34.011Z",
-        "type": "track",
-        "userid": "7pKRko",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+        "lastTimestamp": 0,
+        "platform": "mac",
+        "timestamp": 1684362650,
+        "event": "CommandUsageReport"
     }
 ]

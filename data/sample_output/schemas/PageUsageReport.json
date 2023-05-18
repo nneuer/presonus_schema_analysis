@@ -2,107 +2,281 @@
     "$schema": "http://json-schema.org/schema#",
     "type": "object",
     "properties": {
-        "channel": {
-            "type": "string"
+        "appFingerprint": {
+            "type": "string",
+            "examples": [
+                "68CFA9B6D40E0BF02F410A66557A57E4",
+                "68CFA9B6D40E0BF02F410A66557A57E4",
+                "68CFA9B6D40E0BF02F410A66557A57E4",
+                "877539B055AFBEC017ADA428CF808A52",
+                "68CFA9B6D40E0BF02F410A66557A57E4",
+                "68CFA9B6D40E0BF02F410A66557A57E4",
+                "68CFA9B6D40E0BF02F410A66557A57E4",
+                "877539B055AFBEC017ADA428CF808A52"
+            ],
+            "matched_records": 8,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 8,
+            "non_empty_percent": 100.0
         },
-        "context_library_name": {
-            "type": "string"
+        "appFlavor": {
+            "type": "string",
+            "examples": [
+                "studioapp.retail",
+                "studioapp.retail",
+                "studioapp.retail",
+                "studioapp.retail",
+                "studioapp.retail",
+                "studioapp.retail",
+                "studioapp.retail",
+                "studioapp.retail"
+            ],
+            "matched_records": 8,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 8,
+            "non_empty_percent": 100.0
         },
-        "context_library_version": {
-            "type": "string"
+        "appName": {
+            "type": "string",
+            "examples": [
+                "Studio One",
+                "Studio One",
+                "Studio One",
+                "Studio One",
+                "Studio One",
+                "Studio One",
+                "Studio One",
+                "Studio One"
+            ],
+            "matched_records": 8,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 8,
+            "non_empty_percent": 100.0
         },
-        "event": {
-            "type": "string"
+        "appVersion": {
+            "type": "string",
+            "examples": [
+                "6.1.1",
+                "6.1.1",
+                "6.1.1",
+                "6.1.1",
+                "6.1.1",
+                "6.1.1",
+                "6.1.1",
+                "6.1.1"
+            ],
+            "matched_records": 8,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 8,
+            "non_empty_percent": 100.0
         },
-        "messageid": {
-            "type": "string"
+        "architecture": {
+            "type": "string",
+            "examples": [
+                "x64",
+                "x64",
+                "x64",
+                "ARM64",
+                "x64",
+                "x64",
+                "x64",
+                "x64"
+            ],
+            "matched_records": 8,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 8,
+            "non_empty_percent": 100.0
         },
-        "projectid": {
-            "type": "string"
+        "buildNumber": {
+            "type": "integer",
+            "examples": [
+                92984,
+                92984,
+                92984,
+                92984,
+                92984,
+                92984,
+                92984,
+                92984
+            ],
+            "matched_records": 8,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 8,
+            "non_empty_percent": 100.0
         },
-        "properties_appfingerprint": {
-            "type": "string"
+        "lastTimestamp": {
+            "type": "integer",
+            "examples": [
+                1682791200,
+                0,
+                0,
+                0,
+                0,
+                1683223200,
+                1683756000,
+                0
+            ],
+            "matched_records": 8,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 8,
+            "non_empty_percent": 100.0
         },
-        "properties_appflavor": {
-            "type": "string"
-        },
-        "properties_appname": {
-            "type": "string"
-        },
-        "properties_appversion": {
-            "type": "string"
-        },
-        "properties_architecture": {
-            "type": "string"
-        },
-        "properties_buildnumber": {
-            "type": "string"
-        },
-        "properties_lasttimestamp": {
-            "type": "string"
-        },
-        "properties_pages_duration": {
+        "pages": {
             "type": "array",
             "items": {
-                "type": "integer"
-            }
+                "type": "object",
+                "properties": {
+                    "duration": {
+                        "type": "integer"
+                    },
+                    "type": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "duration",
+                    "type"
+                ]
+            },
+            "examples": [
+                [
+                    {
+                        "duration": 15,
+                        "type": "Start"
+                    },
+                    {
+                        "duration": 3337,
+                        "type": "Song"
+                    }
+                ],
+                [
+                    {
+                        "duration": 694,
+                        "type": "Start"
+                    },
+                    {
+                        "duration": 129198,
+                        "type": "Song"
+                    },
+                    {
+                        "duration": 254,
+                        "type": "Project"
+                    }
+                ],
+                [
+                    {
+                        "duration": 1738,
+                        "type": "Start"
+                    },
+                    {
+                        "duration": 2414,
+                        "type": "Song"
+                    }
+                ],
+                [
+                    {
+                        "duration": 395,
+                        "type": "Start"
+                    },
+                    {
+                        "duration": 3299,
+                        "type": "Song"
+                    }
+                ],
+                [
+                    {
+                        "duration": 122,
+                        "type": "Start"
+                    },
+                    {
+                        "duration": 4478,
+                        "type": "Song"
+                    }
+                ],
+                [
+                    {
+                        "duration": 2147,
+                        "type": "Song"
+                    }
+                ],
+                [
+                    {
+                        "duration": 821,
+                        "type": "Start"
+                    },
+                    {
+                        "duration": 41293,
+                        "type": "Song"
+                    }
+                ]
+            ],
+            "matched_records": 7,
+            "pct_of_records_matched": 87.5,
+            "non_empty": 7,
+            "non_empty_percent": 100.0
         },
-        "properties_pages_type": {
-            "type": "array",
-            "items": {
-                "type": "string"
-            }
-        },
-        "properties_platform": {
-            "type": "string"
-        },
-        "properties_timestamp": {
-            "type": "string"
-        },
-        "receivedat": {
-            "type": "string"
-        },
-        "sentat": {
-            "type": "string"
+        "platform": {
+            "type": "string",
+            "examples": [
+                "win",
+                "win",
+                "win",
+                "mac",
+                "win",
+                "win",
+                "win",
+                "mac"
+            ],
+            "matched_records": 8,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 8,
+            "non_empty_percent": 100.0
         },
         "timestamp": {
-            "type": "string"
+            "type": "integer",
+            "examples": [
+                1684362398,
+                1684362402,
+                1684362393,
+                1684362465,
+                1684362499,
+                1684362592,
+                1684362639,
+                1684362650
+            ],
+            "matched_records": 8,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 8,
+            "non_empty_percent": 100.0
         },
-        "type": {
-            "type": "string"
-        },
-        "userid": {
-            "type": "string"
-        },
-        "version": {
-            "type": "string"
-        },
-        "writekey": {
-            "type": "string"
+        "event": {
+            "type": "string",
+            "examples": [
+                "PageUsageReport",
+                "PageUsageReport",
+                "PageUsageReport",
+                "PageUsageReport",
+                "PageUsageReport",
+                "PageUsageReport",
+                "PageUsageReport",
+                "PageUsageReport"
+            ],
+            "matched_records": 8,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 8,
+            "non_empty_percent": 100.0
         }
     },
     "required": [
-        "channel",
-        "context_library_name",
-        "context_library_version",
+        "appFingerprint",
+        "appFlavor",
+        "appName",
+        "appVersion",
+        "architecture",
+        "buildNumber",
         "event",
-        "messageid",
-        "projectid",
-        "properties_appfingerprint",
-        "properties_appflavor",
-        "properties_appname",
-        "properties_appversion",
-        "properties_architecture",
-        "properties_buildnumber",
-        "properties_lasttimestamp",
-        "properties_platform",
-        "properties_timestamp",
-        "receivedat",
-        "sentat",
-        "timestamp",
-        "type",
-        "userid",
-        "version",
-        "writekey"
+        "lastTimestamp",
+        "platform",
+        "timestamp"
     ]
 }

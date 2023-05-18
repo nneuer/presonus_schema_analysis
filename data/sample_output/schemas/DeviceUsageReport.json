@@ -2,137 +2,1021 @@
     "$schema": "http://json-schema.org/schema#",
     "type": "object",
     "properties": {
-        "channel": {
-            "type": "string"
+        "appFingerprint": {
+            "type": "string",
+            "examples": [
+                "68CFA9B6D40E0BF02F410A66557A57E4",
+                "68CFA9B6D40E0BF02F410A66557A57E4",
+                "68CFA9B6D40E0BF02F410A66557A57E4",
+                "877539B055AFBEC017ADA428CF808A52",
+                "68CFA9B6D40E0BF02F410A66557A57E4",
+                "68CFA9B6D40E0BF02F410A66557A57E4",
+                "877539B055AFBEC017ADA428CF808A52"
+            ],
+            "matched_records": 7,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 7,
+            "non_empty_percent": 100.0
         },
-        "context_library_name": {
-            "type": "string"
+        "appFlavor": {
+            "type": "string",
+            "examples": [
+                "studioapp.retail",
+                "studioapp.retail",
+                "studioapp.retail",
+                "studioapp.retail",
+                "studioapp.retail",
+                "studioapp.retail",
+                "studioapp.retail"
+            ],
+            "matched_records": 7,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 7,
+            "non_empty_percent": 100.0
         },
-        "context_library_version": {
-            "type": "string"
+        "appName": {
+            "type": "string",
+            "examples": [
+                "Studio One",
+                "Studio One",
+                "Studio One",
+                "Studio One",
+                "Studio One",
+                "Studio One",
+                "Studio One"
+            ],
+            "matched_records": 7,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 7,
+            "non_empty_percent": 100.0
         },
-        "event": {
-            "type": "string"
+        "appVersion": {
+            "type": "string",
+            "examples": [
+                "6.1.1",
+                "6.1.1",
+                "6.1.1",
+                "6.1.1",
+                "6.1.1",
+                "6.1.1",
+                "6.1.1"
+            ],
+            "matched_records": 7,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 7,
+            "non_empty_percent": 100.0
         },
-        "messageid": {
-            "type": "string"
+        "architecture": {
+            "type": "string",
+            "examples": [
+                "x64",
+                "x64",
+                "x64",
+                "ARM64",
+                "x64",
+                "x64",
+                "x64"
+            ],
+            "matched_records": 7,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 7,
+            "non_empty_percent": 100.0
         },
-        "projectid": {
-            "type": "string"
+        "buildNumber": {
+            "type": "integer",
+            "examples": [
+                92984,
+                92984,
+                92984,
+                92984,
+                92984,
+                92984,
+                92984
+            ],
+            "matched_records": 7,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 7,
+            "non_empty_percent": 100.0
         },
-        "properties_appfingerprint": {
-            "type": "string"
-        },
-        "properties_appflavor": {
-            "type": "string"
-        },
-        "properties_appname": {
-            "type": "string"
-        },
-        "properties_appversion": {
-            "type": "string"
-        },
-        "properties_architecture": {
-            "type": "string"
-        },
-        "properties_buildnumber": {
-            "type": "string"
-        },
-        "properties_devices_category": {
+        "devices": {
             "type": "array",
             "items": {
-                "type": "string"
-            }
+                "type": "object",
+                "properties": {
+                    "category": {
+                        "type": "string"
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "subCategory": {
+                        "type": "string"
+                    },
+                    "usecount": {
+                        "type": "integer"
+                    },
+                    "vendor": {
+                        "type": "string"
+                    },
+                    "version": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "category",
+                    "name",
+                    "subCategory",
+                    "usecount",
+                    "vendor",
+                    "version"
+                ]
+            },
+            "examples": [
+                [
+                    {
+                        "category": "AudioDevice",
+                        "name": "Studio 68",
+                        "subCategory": "ASIO",
+                        "usecount": 3,
+                        "vendor": "",
+                        "version": ""
+                    },
+                    {
+                        "category": "AudioDevice",
+                        "name": "Studio USB",
+                        "subCategory": "ASIO",
+                        "usecount": 2,
+                        "vendor": "",
+                        "version": ""
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Independence FX",
+                        "subCategory": "VST2/Spatial",
+                        "usecount": 1,
+                        "vendor": "MAGIX",
+                        "version": "1.0.0.0"
+                    }
+                ],
+                [
+                    {
+                        "category": "AudioEffect",
+                        "name": "Room Reverb",
+                        "subCategory": "(Native)/Reverb",
+                        "usecount": 11,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Telofi",
+                        "subCategory": "VST3/Delay",
+                        "usecount": 1,
+                        "vendor": "Black Salt Audio",
+                        "version": "1.0.5"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Groove Delay",
+                        "subCategory": "(Native)/Delay",
+                        "usecount": 1,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Pro EQ",
+                        "subCategory": "(Native)/EQ",
+                        "usecount": 8,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioDevice",
+                        "name": "Windows Audio",
+                        "subCategory": "",
+                        "usecount": 3,
+                        "vendor": "",
+                        "version": ""
+                    },
+                    {
+                        "category": "AudioDevice",
+                        "name": "AudioBox",
+                        "subCategory": "ASIO",
+                        "usecount": 41,
+                        "vendor": "",
+                        "version": ""
+                    },
+                    {
+                        "category": "AudioDevice",
+                        "name": "AudioBox 44 VSL",
+                        "subCategory": "ASIO",
+                        "usecount": 31,
+                        "vendor": "",
+                        "version": ""
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Flanger",
+                        "subCategory": "(Native)/Modulation",
+                        "usecount": 1,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Autofilter",
+                        "subCategory": "(Native)/Modulation",
+                        "usecount": 1,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Phaser",
+                        "subCategory": "(Native)/Modulation",
+                        "usecount": 1,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Analog Delay",
+                        "subCategory": "(Native)/Delay",
+                        "usecount": 1,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioSynth",
+                        "name": "EZbass",
+                        "subCategory": "VST3/Mixing",
+                        "usecount": 3,
+                        "vendor": "Toontrack",
+                        "version": "1.1.7"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "BIAS FX 2",
+                        "subCategory": "VST3",
+                        "usecount": 3,
+                        "vendor": "PositiveGrid",
+                        "version": "2.0.0"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Fat Channel",
+                        "subCategory": "(Native)/Mixing",
+                        "usecount": 5,
+                        "vendor": "PreSonus",
+                        "version": ""
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Chorus",
+                        "subCategory": "(Native)/Modulation",
+                        "usecount": 1,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Channel Strip",
+                        "subCategory": "(Native)/Mixing",
+                        "usecount": 1,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "VT1",
+                        "subCategory": "(Native)/Mixing",
+                        "usecount": 1,
+                        "vendor": "PreSonus",
+                        "version": ""
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Compressor",
+                        "subCategory": "(Native)/Dynamics",
+                        "usecount": 4,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioSynth",
+                        "name": "Mai Tai",
+                        "subCategory": "(Native)/Synth",
+                        "usecount": 1,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Ozone 9 Elements",
+                        "subCategory": "VST3/Mastering",
+                        "usecount": 1,
+                        "vendor": "iZotope",
+                        "version": "9.12.0"
+                    }
+                ],
+                [
+                    {
+                        "category": "AudioDevice",
+                        "name": "ASIO4ALL v2",
+                        "subCategory": "ASIO",
+                        "usecount": 16,
+                        "vendor": "",
+                        "version": ""
+                    },
+                    {
+                        "category": "MusicDevice",
+                        "name": "MPKmini",
+                        "subCategory": "Keyboard",
+                        "usecount": 1,
+                        "vendor": "AKAI",
+                        "version": ""
+                    },
+                    {
+                        "category": "AudioSynth",
+                        "name": "MPC Beats64",
+                        "subCategory": "VST2",
+                        "usecount": 2,
+                        "vendor": "Akai Professional",
+                        "version": "2.11.1.0"
+                    },
+                    {
+                        "category": "AudioSynth",
+                        "name": "Arcade",
+                        "subCategory": "VST3/Synth",
+                        "usecount": 3,
+                        "vendor": "Output",
+                        "version": "2.5.1"
+                    },
+                    {
+                        "category": "AudioDevice",
+                        "name": "Focusrite USB",
+                        "subCategory": "ASIO",
+                        "usecount": 3,
+                        "vendor": "",
+                        "version": ""
+                    },
+                    {
+                        "category": "AudioSynth",
+                        "name": "Velvet_x64",
+                        "subCategory": "VST2",
+                        "usecount": 1,
+                        "vendor": "AIR Music Technology",
+                        "version": "2.0.7.0"
+                    }
+                ],
+                [
+                    {
+                        "category": "AudioDevice",
+                        "name": "AudioBox USB 96",
+                        "subCategory": "CoreAudio",
+                        "usecount": 8,
+                        "vendor": "",
+                        "version": ""
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "TR5 Suite",
+                        "subCategory": "AudioUnit",
+                        "usecount": 2,
+                        "vendor": "IK Multimedia",
+                        "version": "5.10.1"
+                    }
+                ],
+                [
+                    {
+                        "category": "AudioEffect",
+                        "name": "Timeless 3",
+                        "subCategory": "VST3/Delay",
+                        "usecount": 2,
+                        "vendor": "FabFilter",
+                        "version": "3.0.3.0"
+                    }
+                ],
+                [
+                    {
+                        "category": "AudioEffect",
+                        "name": "API-2500 Mono",
+                        "subCategory": "VST3/Dynamics",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "L2 Stereo",
+                        "subCategory": "VST3/Dynamics",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Berzerk Distortion Stereo",
+                        "subCategory": "VST3/Distortion",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "C1 comp Stereo",
+                        "subCategory": "VST3/Dynamics",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Clarity Vx Mono",
+                        "subCategory": "VST3/Restoration",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Vocal Rider Mono",
+                        "subCategory": "VST3/Mixing",
+                        "usecount": 4,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Pro EQ",
+                        "subCategory": "(Native)/EQ",
+                        "usecount": 33,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Nx Ocean Way Nashville Stereo",
+                        "subCategory": "VST3/Spatial",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Nx Germano Studios Stereo",
+                        "subCategory": "VST3/Spatial",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "M360 Mixdown 5.0",
+                        "subCategory": "VST3/Spatial",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "NX Stereo",
+                        "subCategory": "VST3/Spatial",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "DSEQ3",
+                        "subCategory": "AudioUnit",
+                        "usecount": 24,
+                        "vendor": "TBProAudio",
+                        "version": "3.6.10"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "CLA Vocals Stereo",
+                        "subCategory": "VST3/Mixing",
+                        "usecount": 6,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "OneKnob Brighter Stereo",
+                        "subCategory": "VST3",
+                        "usecount": 4,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Sibilance Stereo",
+                        "subCategory": "VST3/Dynamics",
+                        "usecount": 3,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Magma Channel Strip Mono",
+                        "subCategory": "VST3/Mixing",
+                        "usecount": 12,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Magma Channel Strip Stereo",
+                        "subCategory": "VST3/Mixing",
+                        "usecount": 6,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "OneKnob Brighter Mono",
+                        "subCategory": "VST3",
+                        "usecount": 5,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "JJP-Guitars Stereo",
+                        "subCategory": "VST3/Mixing",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Kramer Tape Mono",
+                        "subCategory": "VST3/Distortion",
+                        "usecount": 2,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "kHs Gain",
+                        "subCategory": "AudioUnit",
+                        "usecount": 2,
+                        "vendor": "Kilohearts",
+                        "version": "2.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "RVox Stereo",
+                        "subCategory": "VST3/Dynamics",
+                        "usecount": 7,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Kramer Tape Stereo",
+                        "subCategory": "VST3/Distortion",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Ozone 9 Elements",
+                        "subCategory": "AudioUnit",
+                        "usecount": 2,
+                        "vendor": "iZotope",
+                        "version": "9.12.0"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "RVox Mono",
+                        "subCategory": "VST3/Dynamics",
+                        "usecount": 4,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "OneKnob Phatter Stereo",
+                        "subCategory": "VST3",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "OneKnob Pressure Stereo",
+                        "subCategory": "VST3",
+                        "usecount": 2,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "MetaTune",
+                        "subCategory": "AudioUnit",
+                        "usecount": 5,
+                        "vendor": "Slate Digital",
+                        "version": "1.1.1"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "kHs Stereo",
+                        "subCategory": "VST3",
+                        "usecount": 1,
+                        "vendor": "Kilohearts",
+                        "version": "2.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "OneKnob Louder Stereo",
+                        "subCategory": "VST3",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "OneKnob Pumper Stereo",
+                        "subCategory": "VST3/Dynamics",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "AmpKnob - RevC",
+                        "subCategory": "AudioUnit",
+                        "usecount": 4,
+                        "vendor": "Bogren Digital",
+                        "version": "1.0.1"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "AmpKnob - BDH 5169",
+                        "subCategory": "AudioUnit",
+                        "usecount": 1,
+                        "vendor": "Bogren Digital",
+                        "version": "1.0.0"
+                    },
+                    {
+                        "category": "AudioSynth",
+                        "name": "Drumforge Savior",
+                        "subCategory": "VST3/Drum",
+                        "usecount": 2,
+                        "vendor": "Drumforge",
+                        "version": "1.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "SSLComp Stereo",
+                        "subCategory": "VST3/Dynamics",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Magma BB Tubes Stereo",
+                        "subCategory": "VST3/Distortion",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Berzerk Distortion Mono",
+                        "subCategory": "VST3/Distortion",
+                        "usecount": 2,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "H-Delay Stereo",
+                        "subCategory": "VST3/Delay",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Decapitator",
+                        "subCategory": "AudioUnit",
+                        "usecount": 1,
+                        "vendor": "Soundtoys",
+                        "version": "5.3.0"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "MannyM Reverb Stereo",
+                        "subCategory": "VST3/Reverb",
+                        "usecount": 2,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "JST Sky Box",
+                        "subCategory": "AudioUnit",
+                        "usecount": 2,
+                        "vendor": "Joey Sturgis Tones",
+                        "version": "1.1.0"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Virtual Mix Rack",
+                        "subCategory": "AudioUnit",
+                        "usecount": 1,
+                        "vendor": "Slate Digital",
+                        "version": "2.10.1"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "PuigTec MEQ5 (s)",
+                        "subCategory": "AudioUnit",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "PuigTec MEQ5 Stereo",
+                        "subCategory": "VST3/EQ",
+                        "usecount": 2,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "PuigTec EQP1A Stereo",
+                        "subCategory": "VST3/EQ",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Magic Switch",
+                        "subCategory": "VST3",
+                        "usecount": 1,
+                        "vendor": "BABY Audio",
+                        "version": "1.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Virtual Tape Machines",
+                        "subCategory": "AudioUnit",
+                        "usecount": 8,
+                        "vendor": "Slate Digital",
+                        "version": "1.2.1"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Fresh Air",
+                        "subCategory": "AudioUnit",
+                        "usecount": 2,
+                        "vendor": "Slate Digital",
+                        "version": "1.0.8"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "CLA EchoSphere Stereo",
+                        "subCategory": "VST3/Modulation",
+                        "usecount": 3,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Level Meter",
+                        "subCategory": "(Native)/Analysis",
+                        "usecount": 1,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioDevice",
+                        "name": "Ausgang (integriert)",
+                        "subCategory": "CoreAudio",
+                        "usecount": 4,
+                        "vendor": "",
+                        "version": ""
+                    },
+                    {
+                        "category": "AudioDevice",
+                        "name": "Scarlett 18i8 USB",
+                        "subCategory": "CoreAudio",
+                        "usecount": 1,
+                        "vendor": "",
+                        "version": ""
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Waves Tune Real-Time Mono",
+                        "subCategory": "VST3/Pitch & Time",
+                        "usecount": 3,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Compressor",
+                        "subCategory": "(Native)/Dynamics",
+                        "usecount": 5,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Gate",
+                        "subCategory": "(Native)/Dynamics",
+                        "usecount": 1,
+                        "vendor": "PreSonus",
+                        "version": "4.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "DeEsser Mono",
+                        "subCategory": "VST3/Dynamics",
+                        "usecount": 3,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "CLA-76 Mono",
+                        "subCategory": "VST3/Dynamics",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "PuigTec MEQ5 Mono",
+                        "subCategory": "VST3/EQ",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "SSLGChannel Mono",
+                        "subCategory": "VST3/Mixing",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "SSL EV2 Channel Mono",
+                        "subCategory": "VST3/Mixing",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "SSLChannel Mono",
+                        "subCategory": "VST3/Mixing",
+                        "usecount": 3,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "SSLEQ Stereo",
+                        "subCategory": "VST3/EQ",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "SSLChannel Stereo",
+                        "subCategory": "VST3/Mixing",
+                        "usecount": 5,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "DeEsser Stereo",
+                        "subCategory": "VST3/Dynamics",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "Magic Switch",
+                        "subCategory": "AudioUnit",
+                        "usecount": 1,
+                        "vendor": "BABY Audio",
+                        "version": "1.0.2"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "MV2 Mono",
+                        "subCategory": "VST3/Dynamics",
+                        "usecount": 1,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    },
+                    {
+                        "category": "AudioEffect",
+                        "name": "MV2 Stereo",
+                        "subCategory": "VST3/Dynamics",
+                        "usecount": 4,
+                        "vendor": "Waves",
+                        "version": "14.12.90.381"
+                    }
+                ]
+            ],
+            "matched_records": 6,
+            "pct_of_records_matched": 85.71428571428571,
+            "non_empty": 6,
+            "non_empty_percent": 100.0
         },
-        "properties_devices_name": {
-            "type": "array",
-            "items": {
-                "type": "string"
-            }
+        "lastTimestamp": {
+            "type": "integer",
+            "examples": [
+                1682791200,
+                0,
+                0,
+                0,
+                0,
+                1683223200,
+                0
+            ],
+            "matched_records": 7,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 7,
+            "non_empty_percent": 100.0
         },
-        "properties_devices_subcategory": {
-            "type": "array",
-            "items": {
-                "type": "string"
-            }
-        },
-        "properties_devices_usecount": {
-            "type": "array",
-            "items": {
-                "type": "integer"
-            }
-        },
-        "properties_devices_vendor": {
-            "type": "array",
-            "items": {
-                "type": "string"
-            }
-        },
-        "properties_devices_version": {
-            "type": "array",
-            "items": {
-                "type": "string"
-            }
-        },
-        "properties_lasttimestamp": {
-            "type": "string"
-        },
-        "properties_platform": {
-            "type": "string"
-        },
-        "properties_timestamp": {
-            "type": "string"
-        },
-        "receivedat": {
-            "type": "string"
-        },
-        "sentat": {
-            "type": "string"
+        "platform": {
+            "type": "string",
+            "examples": [
+                "win",
+                "win",
+                "win",
+                "mac",
+                "win",
+                "win",
+                "mac"
+            ],
+            "matched_records": 7,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 7,
+            "non_empty_percent": 100.0
         },
         "timestamp": {
-            "type": "string"
+            "type": "integer",
+            "examples": [
+                1684362398,
+                1684362402,
+                1684362393,
+                1684362465,
+                1684362499,
+                1684362592,
+                1684362650
+            ],
+            "matched_records": 7,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 7,
+            "non_empty_percent": 100.0
         },
-        "type": {
-            "type": "string"
-        },
-        "userid": {
-            "type": "string"
-        },
-        "version": {
-            "type": "string"
-        },
-        "writekey": {
-            "type": "string"
+        "event": {
+            "type": "string",
+            "examples": [
+                "DeviceUsageReport",
+                "DeviceUsageReport",
+                "DeviceUsageReport",
+                "DeviceUsageReport",
+                "DeviceUsageReport",
+                "DeviceUsageReport",
+                "DeviceUsageReport"
+            ],
+            "matched_records": 7,
+            "pct_of_records_matched": 100.0,
+            "non_empty": 7,
+            "non_empty_percent": 100.0
         }
     },
     "required": [
-        "channel",
-        "context_library_name",
-        "context_library_version",
+        "appFingerprint",
+        "appFlavor",
+        "appName",
+        "appVersion",
+        "architecture",
+        "buildNumber",
         "event",
-        "messageid",
-        "projectid",
-        "properties_appfingerprint",
-        "properties_appflavor",
-        "properties_appname",
-        "properties_appversion",
-        "properties_architecture",
-        "properties_buildnumber",
-        "properties_devices_category",
-        "properties_devices_name",
-        "properties_devices_subcategory",
-        "properties_devices_usecount",
-        "properties_devices_vendor",
-        "properties_devices_version",
-        "properties_lasttimestamp",
-        "properties_platform",
-        "properties_timestamp",
-        "receivedat",
-        "sentat",
-        "timestamp",
-        "type",
-        "userid",
-        "version",
-        "writekey"
+        "lastTimestamp",
+        "platform",
+        "timestamp"
     ]
 }

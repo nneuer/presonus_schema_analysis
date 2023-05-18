@@ -1,176 +1,52 @@
 [
     {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "UserSystemReport",
-        "messageid": "api-2OmfCEivuuTB1PEoIoml4V5FVco",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "48B0D55F4E62ABC3C551DE5016B49FDF",
-        "properties_appflavor": "studioapp.retail",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.0",
-        "properties_architecture": "ARM64",
-        "properties_buildnumber": "92811",
-        "properties_colorschemes_luminance": [
-            1,
-            0.5,
-            1,
-            0.5
+        "appFingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "x64",
+        "buildNumber": 92984,
+        "colorSchemes": [
+            {
+                "luminance": 0.5,
+                "type": 1
+            },
+            {
+                "luminance": 0.5,
+                "type": 1
+            },
+            {
+                "luminance": 0.5,
+                "type": 1
+            },
+            {
+                "luminance": 0.5,
+                "type": 1
+            }
         ],
-        "properties_colorschemes_type": [
-            1,
-            1,
-            1,
-            1
+        "cpuCores": 8,
+        "cpuType": "Intel64 Family 6 Model 142 Stepping 10",
+        "diskSize": 235469271040,
+        "lastTimestamp": 1679853600,
+        "monitorCount": 2,
+        "monitors": [
+            {
+                "scaling": 1.25,
+                "x": 1920,
+                "y": 1080
+            },
+            {
+                "scaling": 1,
+                "x": 1920,
+                "y": 1200
+            }
         ],
-        "properties_cpucores": "8",
-        "properties_cputype": "16777228",
-        "properties_disksize": "1995218165760",
-        "properties_lasttimestamp": "1681290000",
-        "properties_mac_metal": "1",
-        "properties_monitorcount": "1",
-        "properties_monitors_scaling": [
-            1
-        ],
-        "properties_monitors_x": [
-            2560
-        ],
-        "properties_monitors_y": [
-            1440
-        ],
-        "properties_osname": "macOS",
-        "properties_osversion": "13.2.1",
-        "properties_platform": "mac",
-        "properties_ramamount": "34359738368",
-        "properties_timestamp": "1682170544",
-        "receivedat": "2023-04-22T13:35:48.107Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:35:48.107Z",
-        "type": "track",
-        "userid": "2pFRfr",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
-    },
-    {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "UserSystemReport",
-        "messageid": "api-2OmfG8qzsOkVBvuWXlslJUXO7UG",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "877539B055AFBEC017ADA428CF808A52",
-        "properties_appflavor": "studioapp.retail",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.1",
-        "properties_architecture": "ARM64",
-        "properties_buildnumber": "92984",
-        "properties_colorschemes_luminance": [
-            0,
-            0,
-            0,
-            0.5
-        ],
-        "properties_colorschemes_type": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "properties_cpucores": "4",
-        "properties_cputype": "16777228",
-        "properties_disksize": "494384795648",
-        "properties_lasttimestamp": "1681866000",
-        "properties_mac_metal": "1",
-        "properties_monitorcount": "3",
-        "properties_monitors_scaling": [
-            2,
-            1,
-            1
-        ],
-        "properties_monitors_x": [
-            5120,
-            1920,
-            1920
-        ],
-        "properties_monitors_y": [
-            2880,
-            1080,
-            1080
-        ],
-        "properties_osname": "macOS",
-        "properties_osversion": "13.3.1",
-        "properties_platform": "mac",
-        "properties_ramamount": "8589934592",
-        "properties_timestamp": "1682170577",
-        "receivedat": "2023-04-22T13:36:18.977Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:36:18.977Z",
-        "type": "track",
-        "userid": "3pPHen",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
-    },
-    {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "UserSystemReport",
-        "messageid": "api-2OmfT5zFdPwdNk2JJ2JbsOYKTwP",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
-        "properties_appflavor": "studioapp.retail",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.1",
-        "properties_architecture": "x64",
-        "properties_buildnumber": "92984",
-        "properties_colorschemes_luminance": [
-            0.5,
-            0.5,
-            0.5,
-            0.5
-        ],
-        "properties_colorschemes_type": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "properties_cpucores": "24",
-        "properties_cputype": "Intel64 Family 6 Model 183 Stepping 1",
-        "properties_disksize": "999349547008",
-        "properties_lasttimestamp": "1681743600",
-        "properties_monitorcount": "4",
-        "properties_monitors_scaling": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "properties_monitors_x": [
-            1920,
-            1920,
-            1920,
-            1280
-        ],
-        "properties_monitors_y": [
-            1080,
-            1080,
-            1080,
-            1024
-        ],
-        "properties_osname": "Microsoft Windows 11 Famille",
-        "properties_osversion": "10.0.22621",
-        "properties_platform": "win",
-        "properties_ramamount": "34116083712",
-        "properties_timestamp": "1682170662",
-        "properties_win_highdpi": "1",
-        "receivedat": "2023-04-22T13:38:01.329Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:38:01.329Z",
-        "type": "track",
-        "userid": "7pBEfr",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+        "osName": "Microsoft Windows 10 Pro",
+        "osVersion": "10.0.19045",
+        "platform": "win",
+        "ramAmount": 25655730176,
+        "timestamp": 1684362592,
+        "win_highdpi": 1,
+        "event": "UserSystemReport"
     }
 ]

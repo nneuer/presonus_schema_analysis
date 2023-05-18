@@ -1,252 +1,170 @@
 [
     {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "DocumentUsageReport",
-        "messageid": "api-2Omf8nGGGkwLGzoYSuwfQW54MpH",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
-        "properties_appflavor": "studioapp.retail",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.1",
-        "properties_architecture": "x64",
-        "properties_buildnumber": "92984",
-        "properties_documents_created": [
-            1
+        "appFingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "x64",
+        "buildNumber": 92984,
+        "documents": [
+            {
+                "created": 1,
+                "type": "song"
+            }
         ],
-        "properties_documents_opened": [
-            1
+        "lastTimestamp": 1682791200,
+        "platform": "win",
+        "templates": [
+            {
+                "created": 1,
+                "id": "Grabar y mezclar.songtemplate"
+            }
         ],
-        "properties_documents_type": [
-            "song"
-        ],
-        "properties_lasttimestamp": "1681563600",
-        "properties_platform": "win",
-        "properties_templates_created": [
-            1
-        ],
-        "properties_templates_id": [
-            "Record and Mix.songtemplate"
-        ],
-        "properties_timestamp": "1682170518",
-        "receivedat": "2023-04-22T13:35:20.206Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:35:20.206Z",
-        "type": "track",
-        "userid": "7sGBen",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+        "timestamp": 1684362398,
+        "event": "DocumentUsageReport"
     },
     {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "DocumentUsageReport",
-        "messageid": "api-2OmfFhOi8HI9nDkTXL0duA9vi5f",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
-        "properties_appflavor": "studioapp.retail",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.1",
-        "properties_architecture": "x64",
-        "properties_buildnumber": "92984",
-        "properties_documents_created": [
-            20
+        "appFingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "x64",
+        "buildNumber": 92984,
+        "documents": [
+            {
+                "created": 2,
+                "opened": 22,
+                "type": "song"
+            },
+            {
+                "created": 1,
+                "type": "project"
+            }
         ],
-        "properties_documents_opened": [
-            26,
-            6
+        "lastTimestamp": 0,
+        "platform": "win",
+        "templates": [
+            {
+                "created": 2,
+                "id": "User.songtemplate"
+            }
         ],
-        "properties_documents_type": [
-            "song",
-            "mid"
-        ],
-        "properties_lasttimestamp": "1681520400",
-        "properties_platform": "win",
-        "properties_templates_created": [
-            20
-        ],
-        "properties_templates_id": [
-            "Grabar y mezclar.songtemplate"
-        ],
-        "properties_timestamp": "1682170572",
-        "receivedat": "2023-04-22T13:36:15.177Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:36:15.177Z",
-        "type": "track",
-        "userid": "4pARes",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+        "timestamp": 1684362402,
+        "event": "DocumentUsageReport"
     },
     {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "DocumentUsageReport",
-        "messageid": "api-2OmfFc6Nn1t1eP2pb92DW35VZom",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
-        "properties_appflavor": "studioapp.retail",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.1",
-        "properties_architecture": "x64",
-        "properties_buildnumber": "92984",
-        "properties_lasttimestamp": "1681488000",
-        "properties_platform": "win",
-        "properties_templates_created": [
-            4
+        "appFingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "x64",
+        "buildNumber": 92984,
+        "documents": [
+            {
+                "created": 3,
+                "type": "song"
+            }
         ],
-        "properties_templates_id": [
-            "Aufnehmen und Mischen.songtemplate"
+        "lastTimestamp": 0,
+        "platform": "win",
+        "templates": [
+            {
+                "created": 3,
+                "id": "Record and Mix.songtemplate"
+            }
         ],
-        "properties_timestamp": "1682170573",
-        "receivedat": "2023-04-22T13:36:13.966Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:36:13.966Z",
-        "type": "track",
-        "userid": "5sDEde",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+        "timestamp": 1684362393,
+        "event": "DocumentUsageReport"
     },
     {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "DocumentUsageReport",
-        "messageid": "api-2OmfP6FQiy6F0LXKidnmrG6sm2F",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "124676502AFA9EB4CB9D70A2D32ED73D",
-        "properties_appflavor": "studioapp.bundle",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.0",
-        "properties_architecture": "x64",
-        "properties_buildnumber": "92811",
-        "properties_documents_created": [
-            2
+        "appFingerprint": "877539B055AFBEC017ADA428CF808A52",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "ARM64",
+        "buildNumber": 92984,
+        "documents": [
+            {
+                "created": 2,
+                "opened": 5,
+                "type": "song"
+            },
+            {
+                "opened": 1,
+                "type": "aaf"
+            }
         ],
-        "properties_documents_opened": [
-            24
+        "lastTimestamp": 0,
+        "platform": "mac",
+        "templates": [
+            {
+                "created": 2,
+                "id": "Record and Mix.songtemplate"
+            }
         ],
-        "properties_documents_type": [
-            "song"
-        ],
-        "properties_lasttimestamp": "1680346800",
-        "properties_platform": "win",
-        "properties_templates_created": [
-            1,
-            1
-        ],
-        "properties_templates_id": [
-            "Registra e Mixa.songtemplate",
-            "Create Content.songtemplate"
-        ],
-        "properties_timestamp": "1682170665",
-        "receivedat": "2023-04-22T13:37:29.689Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:37:29.689Z",
-        "type": "track",
-        "userid": "7pITit",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+        "timestamp": 1684362465,
+        "event": "DocumentUsageReport"
     },
     {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "DocumentUsageReport",
-        "messageid": "api-2OmfWZyzs7hfYtBTgZAZfaBwUcB",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "48B0D55F4E62ABC3C551DE5016B49FDF",
-        "properties_appflavor": "studioapp.retail",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.0",
-        "properties_architecture": "x64",
-        "properties_buildnumber": "92811",
-        "properties_lasttimestamp": "1681560000",
-        "properties_platform": "mac",
-        "properties_timestamp": "1682170707",
-        "receivedat": "2023-04-22T13:38:27.940Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:38:27.940Z",
-        "type": "track",
-        "userid": "6pGBen",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+        "appFingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "x64",
+        "buildNumber": 92984,
+        "documents": [
+            {
+                "created": 2,
+                "opened": 2,
+                "type": "song"
+            }
+        ],
+        "lastTimestamp": 0,
+        "platform": "win",
+        "templates": [
+            {
+                "created": 2,
+                "id": "User.songtemplate"
+            }
+        ],
+        "timestamp": 1684362499,
+        "event": "DocumentUsageReport"
     },
     {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "DocumentUsageReport",
-        "messageid": "api-2OmfWyrPlCYfOVXBBLTSJd0xImE",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "124676502AFA9EB4CB9D70A2D32ED73D",
-        "properties_appflavor": "studioapp.retail",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.0",
-        "properties_architecture": "x64",
-        "properties_buildnumber": "92811",
-        "properties_documents_created": [
-            7
-        ],
-        "properties_documents_opened": [
-            6
-        ],
-        "properties_documents_type": [
-            "song"
-        ],
-        "properties_lasttimestamp": "1681491600",
-        "properties_platform": "win",
-        "properties_templates_created": [
-            7
-        ],
-        "properties_templates_id": [
-            "User.songtemplate"
-        ],
-        "properties_timestamp": "1682170803",
-        "receivedat": "2023-04-22T13:38:33.310Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:38:33.310Z",
-        "type": "track",
-        "userid": "7pSEen",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+        "appFingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "x64",
+        "buildNumber": 92984,
+        "lastTimestamp": 1683223200,
+        "platform": "win",
+        "timestamp": 1684362592,
+        "event": "DocumentUsageReport"
     },
     {
-        "channel": "server",
-        "context_library_name": "unknown",
-        "context_library_version": "unknown",
-        "event": "DocumentUsageReport",
-        "messageid": "api-2OmfeiGf0kITEw8Z4Rmr412XWEA",
-        "projectid": "eMPYdT9WHmfYYdwau3p4sx",
-        "properties_appfingerprint": "68CFA9B6D40E0BF02F410A66557A57E4",
-        "properties_appflavor": "studioapp.free",
-        "properties_appname": "Studio One",
-        "properties_appversion": "6.1.1",
-        "properties_architecture": "x64",
-        "properties_buildnumber": "92984",
-        "properties_documents_created": [
-            1
+        "appFingerprint": "877539B055AFBEC017ADA428CF808A52",
+        "appFlavor": "studioapp.retail",
+        "appName": "Studio One",
+        "appVersion": "6.1.1",
+        "architecture": "x64",
+        "buildNumber": 92984,
+        "documents": [
+            {
+                "created": 2,
+                "opened": 9,
+                "type": "song"
+            }
         ],
-        "properties_documents_type": [
-            "song"
+        "lastTimestamp": 0,
+        "platform": "mac",
+        "templates": [
+            {
+                "created": 2,
+                "id": "Aufnehmen und Mischen.songtemplate"
+            }
         ],
-        "properties_lasttimestamp": "1681552800",
-        "properties_platform": "win",
-        "properties_templates_created": [
-            1
-        ],
-        "properties_templates_id": [
-            "Record Now:Single Track.songtemplate"
-        ],
-        "properties_timestamp": "1682170773",
-        "receivedat": "2023-04-22T13:39:34.011Z",
-        "sentat": "None",
-        "timestamp": "2023-04-22T13:39:34.011Z",
-        "type": "track",
-        "userid": "7pKRko",
-        "version": "2",
-        "writekey": "uXTzsfLBicvxkFzW6yYxbATtd8oWDGB8"
+        "timestamp": 1684362650,
+        "event": "DocumentUsageReport"
     }
 ]
